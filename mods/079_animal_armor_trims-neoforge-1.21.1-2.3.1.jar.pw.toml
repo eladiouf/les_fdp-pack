@@ -1,0 +1,8 @@
+name = "animal_armor_trims-neoforge-1.21.1-2.3.1.jar"
+filename = "animal_armor_trims-neoforge-1.21.1-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/079_animal_armor_trims-neoforge-1.21.1-2.3.1.jar"
+hash-format = "sha256"
+hash = "1536020664f6e880fa4fdd7c1330b5e4aef7a91abbfd5834bfd97dd2559553eb"

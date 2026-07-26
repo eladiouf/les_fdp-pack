@@ -1,0 +1,8 @@
+name = "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
+filename = "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/024_CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
+hash-format = "sha256"
+hash = "ed83bea2826667fca80a6a8067f89fe7b97eb8b3213bbcb7f0f4e6a6898c0bc9"

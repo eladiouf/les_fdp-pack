@@ -1,0 +1,8 @@
+name = "jmi-neoforge-1.21.1-1.9.jar"
+filename = "jmi-neoforge-1.21.1-1.9.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/210_jmi-neoforge-1.21.1-1.9.jar"
+hash-format = "sha256"
+hash = "a0c62b1b55c0d9058340e39e96cecbe20d25222e87d7513b9dceb8cd45a6a849"

@@ -1,0 +1,8 @@
+name = "carryon-neoforge-1.21.1-2.2.4.4-patched-no-slowness.jar"
+filename = "carryon-neoforge-1.21.1-2.2.4.4-patched-no-slowness.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/101_carryon-neoforge-1.21.1-2.2.4.4-patched-no-slowness.jar"
+hash-format = "sha256"
+hash = "0c28662a125de91873052d0b36a2c99f07b0f83769666e1ed1003cf101806f4b"

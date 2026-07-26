@@ -1,0 +1,8 @@
+name = "mechanicals-1.21.1-1.1.0.jar"
+filename = "mechanicals-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/231_mechanicals-1.21.1-1.1.0.jar"
+hash-format = "sha256"
+hash = "122c03b1b94bcf515056e197bcc14527e4f91306d8e38b76ba195ab64f8e05de"

@@ -1,0 +1,8 @@
+name = "wider_ender_chests-neoforge-1.21.1-1.0.4.jar"
+filename = "wider_ender_chests-neoforge-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/297_wider_ender_chests-neoforge-1.21.1-1.0.4.jar"
+hash-format = "sha256"
+hash = "32a7fe017f60b6d49cec1aa44f9a059b978809eb66fb395748df0cb6272b2bc2"

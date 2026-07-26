@@ -1,0 +1,8 @@
+name = "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar"
+filename = "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/033_DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar"
+hash-format = "sha256"
+hash = "549040fbd81d1b33aea38681109685e86d63985785246a831112c4ba5740d2df"

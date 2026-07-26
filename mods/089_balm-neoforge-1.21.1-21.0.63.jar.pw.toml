@@ -1,0 +1,8 @@
+name = "balm-neoforge-1.21.1-21.0.63.jar"
+filename = "balm-neoforge-1.21.1-21.0.63.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/089_balm-neoforge-1.21.1-21.0.63.jar"
+hash-format = "sha256"
+hash = "cced7e33b55e77e241a967ba29f52232185c1c3e72af7b4dd255bd557bb9aee0"

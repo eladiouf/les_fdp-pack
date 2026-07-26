@@ -1,0 +1,8 @@
+name = "ToastControl-1.21.1-9.0.1.jar"
+filename = "ToastControl-1.21.1-9.0.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/070_ToastControl-1.21.1-9.0.1.jar"
+hash-format = "sha256"
+hash = "f80bc1be4375faaac73971e6d51cc1500935f7144fa33108ee4f2fdbd8f70f66"

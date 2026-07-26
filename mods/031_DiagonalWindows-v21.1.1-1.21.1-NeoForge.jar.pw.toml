@@ -1,0 +1,8 @@
+name = "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar"
+filename = "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/031_DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "2c36dd055872aa7643f2a4cc787c998dcddf62910d17c4a166d250f6d55e6cbe"

@@ -1,0 +1,8 @@
+name = "comforts-neoforge-9.0.5+1.21.1.jar"
+filename = "comforts-neoforge-9.0.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/111_comforts-neoforge-9.0.5_1.21.1.jar"
+hash-format = "sha256"
+hash = "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"

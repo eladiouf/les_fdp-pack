@@ -1,0 +1,8 @@
+name = "create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar"
+filename = "create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/134_create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar"
+hash-format = "sha256"
+hash = "5923e250924e4baebd2ba99d985be39114c1a1070922ffd20d2ee1352959bec2"

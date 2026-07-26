@@ -1,0 +1,8 @@
+name = "Custom Nether Portals - Neoforge - MC 1.21.1-2.0.0.jar"
+filename = "Custom Nether Portals - Neoforge - MC 1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/026_Custom_Nether_Portals_-_Neoforge_-_MC_1.21.1-2.0.0.jar"
+hash-format = "sha256"
+hash = "9312b8fab52d322158c5ee7ca0db7c6d280b71862308db1227011a4fa44165e1"

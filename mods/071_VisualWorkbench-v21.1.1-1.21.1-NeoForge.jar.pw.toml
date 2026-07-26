@@ -1,0 +1,8 @@
+name = "VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar"
+filename = "VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/071_VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "a5bb002229e30a44237282371cff48baf6e889bc69b5753e70323e1d41c0616d"

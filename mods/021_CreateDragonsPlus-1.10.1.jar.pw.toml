@@ -1,0 +1,8 @@
+name = "CreateDragonsPlus-1.10.1.jar"
+filename = "CreateDragonsPlus-1.10.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/021_CreateDragonsPlus-1.10.1.jar"
+hash-format = "sha256"
+hash = "a192bc7074232e6e6a4acc7620a66f28a1fa314235ef2648edae034b1434b428"

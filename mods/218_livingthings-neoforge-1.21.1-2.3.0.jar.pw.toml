@@ -1,0 +1,8 @@
+name = "livingthings-neoforge-1.21.1-2.3.0.jar"
+filename = "livingthings-neoforge-1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/218_livingthings-neoforge-1.21.1-2.3.0.jar"
+hash-format = "sha256"
+hash = "dbb2a21db7555b41325c107db872a0304066b7c3eabb5e1e0cb010c294bbaca5"

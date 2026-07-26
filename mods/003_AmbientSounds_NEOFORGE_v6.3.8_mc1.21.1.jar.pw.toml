@@ -1,0 +1,8 @@
+name = "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
+filename = "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/003_AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
+hash-format = "sha256"
+hash = "07ee6fd24d8427ee079e2e376095b0ac92450b0153331f1575f8195e2c9cf90b"

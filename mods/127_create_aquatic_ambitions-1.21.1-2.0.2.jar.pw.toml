@@ -1,0 +1,8 @@
+name = "create_aquatic_ambitions-1.21.1-2.0.2.jar"
+filename = "create_aquatic_ambitions-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/127_create_aquatic_ambitions-1.21.1-2.0.2.jar"
+hash-format = "sha256"
+hash = "302b6b0fac480c697c37cefd32d0fa82e7fb8a133a1904841201db820a7ca48c"

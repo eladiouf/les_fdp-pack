@@ -1,0 +1,8 @@
+name = "epic x parcool-neoforge-21.0.0-1.21.1.jar"
+filename = "epic x parcool-neoforge-21.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/180_epic_x_parcool-neoforge-21.0.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "cb8cd4f6d95f2a0b6e82beab117e36aa1933bdc4693d686395ccd4640e02929d"

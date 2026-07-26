@@ -1,0 +1,8 @@
+name = "cristellib-neoforge-1.21.1-3.0.2.1.jar"
+filename = "cristellib-neoforge-1.21.1-3.0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/158_cristellib-neoforge-1.21.1-3.0.2.1.jar"
+hash-format = "sha256"
+hash = "bb3ac15b080320e4da25ffb44c5a7a528ddd7bf7a16e567831048bd13e0528bb"

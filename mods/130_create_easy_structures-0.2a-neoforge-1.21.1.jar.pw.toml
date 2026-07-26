@@ -1,0 +1,8 @@
+name = "create_easy_structures-0.2a-neoforge-1.21.1.jar"
+filename = "create_easy_structures-0.2a-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/130_create_easy_structures-0.2a-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "8d5949114e9dd506c4a8598f789e63678fdf6b2b90f40a8e6ef2babc6f56029f"

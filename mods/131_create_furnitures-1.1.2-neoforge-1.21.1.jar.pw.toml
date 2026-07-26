@@ -1,0 +1,8 @@
+name = "create_furnitures-1.1.2-neoforge-1.21.1.jar"
+filename = "create_furnitures-1.1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/131_create_furnitures-1.1.2-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "304fb7df1169f3c76084ed2eb836481a0c339cc8af7fdd9e7bb71a4acb584024"

@@ -1,0 +1,8 @@
+name = "EW-NeoForge-1.21.1-1.0.0.jar"
+filename = "EW-NeoForge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/034_EW-NeoForge-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "fca02c0a53f761867c8ec4f9d45f2eaf535c795017e8249ed5ed4e915cc12d62"

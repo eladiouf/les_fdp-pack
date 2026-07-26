@@ -1,0 +1,8 @@
+name = "moonlight-neoforge-1.21.1-3.1.1.jar"
+filename = "moonlight-neoforge-1.21.1-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/239_moonlight-neoforge-1.21.1-3.1.1.jar"
+hash-format = "sha256"
+hash = "095a0b08d34da009b27f207fda8d4322d201e6353231a1ca2624c2350962a3a8"

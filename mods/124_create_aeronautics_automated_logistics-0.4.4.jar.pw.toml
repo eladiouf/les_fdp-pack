@@ -1,0 +1,8 @@
+name = "create_aeronautics_automated_logistics-0.4.4.jar"
+filename = "create_aeronautics_automated_logistics-0.4.4.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/124_create_aeronautics_automated_logistics-0.4.4.jar"
+hash-format = "sha256"
+hash = "8dcb325f24dcd382bc87f8a00a10b879fa536936943e9d5b2da19be41487e01a"

@@ -1,0 +1,8 @@
+name = "medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar"
+filename = "medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/233_medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar"
+hash-format = "sha256"
+hash = "d11b62c633c739426c6b5812f6b1162265323e981a75ee2517b51ff78e7c20d4"

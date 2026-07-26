@@ -1,0 +1,8 @@
+name = "zombie_variants-neoforge-1.0.3-1.21.1.jar"
+filename = "zombie_variants-neoforge-1.0.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/301_zombie_variants-neoforge-1.0.3-1.21.1.jar"
+hash-format = "sha256"
+hash = "3524cc3e22306aa47bc1be0ead99acf315102c4778b51ccd8b791186529efea6"

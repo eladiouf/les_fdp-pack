@@ -1,0 +1,8 @@
+name = "collective-1.21.1-8.39.jar"
+filename = "collective-1.21.1-8.39.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/110_collective-1.21.1-8.39.jar"
+hash-format = "sha256"
+hash = "ae59b63790c3097fb01e7801c21f3e7feed13b151c2ad993895196c74381a8fe"

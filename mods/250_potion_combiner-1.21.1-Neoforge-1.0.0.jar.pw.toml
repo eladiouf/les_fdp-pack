@@ -1,0 +1,8 @@
+name = "potion_combiner-1.21.1-Neoforge-1.0.0.jar"
+filename = "potion_combiner-1.21.1-Neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/250_potion_combiner-1.21.1-Neoforge-1.0.0.jar"
+hash-format = "sha256"
+hash = "976862ec51386334300b72a9c25c343d12af82b9af37a8417f44093f57eac191"

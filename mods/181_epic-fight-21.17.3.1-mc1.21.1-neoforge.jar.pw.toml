@@ -1,0 +1,8 @@
+name = "epic-fight-21.17.3.1-mc1.21.1-neoforge.jar"
+filename = "epic-fight-21.17.3.1-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/181_epic-fight-21.17.3.1-mc1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "8b882554cf10086398340fbdc741819ee72a801a3adce516c7f4768326a39526"

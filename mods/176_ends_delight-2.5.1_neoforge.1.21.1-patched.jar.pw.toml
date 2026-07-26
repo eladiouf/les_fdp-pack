@@ -1,0 +1,8 @@
+name = "ends_delight-2.5.1+neoforge.1.21.1-patched.jar"
+filename = "ends_delight-2.5.1+neoforge.1.21.1-patched.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/176_ends_delight-2.5.1_neoforge.1.21.1-patched.jar"
+hash-format = "sha256"
+hash = "8c4131df2a01c50c5f108f21e684d4cd6c1926b5f5ab12fec9d0b9510d1f9fff"

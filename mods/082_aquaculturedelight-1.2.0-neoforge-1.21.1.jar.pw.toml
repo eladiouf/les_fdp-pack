@@ -1,0 +1,8 @@
+name = "aquaculturedelight-1.2.0-neoforge-1.21.1.jar"
+filename = "aquaculturedelight-1.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/082_aquaculturedelight-1.2.0-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "0a0565d1a3801b00801ecec70dcb2c240e68bae9a41ffd4ffa6d0365226b9875"

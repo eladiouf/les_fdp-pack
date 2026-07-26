@@ -1,0 +1,8 @@
+name = "railways-0.2.1+neoforge-mc1.21.1.jar"
+filename = "railways-0.2.1+neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/252_railways-0.2.1_neoforge-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914"

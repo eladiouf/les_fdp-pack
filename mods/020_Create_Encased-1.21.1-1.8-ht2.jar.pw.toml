@@ -1,0 +1,8 @@
+name = "Create Encased-1.21.1-1.8-ht2.jar"
+filename = "Create Encased-1.21.1-1.8-ht2.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/020_Create_Encased-1.21.1-1.8-ht2.jar"
+hash-format = "sha256"
+hash = "d66b7caac3fe29bb95ed6c53c8271d797a2f0cacfc98c8819406bc445783d12c"

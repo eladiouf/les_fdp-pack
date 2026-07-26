@@ -1,0 +1,8 @@
+name = "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar"
+filename = "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/230_mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar"
+hash-format = "sha256"
+hash = "1408d46bc2e7515b25b4da8393f8dbb3d79bcd9fb6d51fcf26fe84734c2597af"

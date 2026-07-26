@@ -1,0 +1,8 @@
+name = "astikorcartsredux-1.2.3.jar"
+filename = "astikorcartsredux-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/085_astikorcartsredux-1.2.3.jar"
+hash-format = "sha256"
+hash = "1958043a088e6e75c6a8371496a692123915a91253c8a1119886374f7b536329"

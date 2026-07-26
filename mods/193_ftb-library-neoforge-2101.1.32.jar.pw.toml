@@ -1,0 +1,8 @@
+name = "ftb-library-neoforge-2101.1.32.jar"
+filename = "ftb-library-neoforge-2101.1.32.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/193_ftb-library-neoforge-2101.1.32.jar"
+hash-format = "sha256"
+hash = "6308e71fec7095f68328020a63121a966c8ef89bd3528e459c528037e3484354"

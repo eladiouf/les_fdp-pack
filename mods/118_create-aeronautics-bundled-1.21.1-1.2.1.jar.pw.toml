@@ -1,0 +1,8 @@
+name = "create-aeronautics-bundled-1.21.1-1.2.1.jar"
+filename = "create-aeronautics-bundled-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/118_create-aeronautics-bundled-1.21.1-1.2.1.jar"
+hash-format = "sha256"
+hash = "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"

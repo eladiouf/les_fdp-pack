@@ -1,0 +1,8 @@
+name = "MultiArrowEffects-Neoforge-1.21.1-1.0.0.jar"
+filename = "MultiArrowEffects-Neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/057_MultiArrowEffects-Neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "1506c7786f0d0579a82951171a8036de7af081f0db72fd15b217e64467fe2c98"

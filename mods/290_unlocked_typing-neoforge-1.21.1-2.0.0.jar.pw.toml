@@ -1,0 +1,8 @@
+name = "unlocked_typing-neoforge-1.21.1-2.0.0.jar"
+filename = "unlocked_typing-neoforge-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/290_unlocked_typing-neoforge-1.21.1-2.0.0.jar"
+hash-format = "sha256"
+hash = "516a7c1b7e0245af8db9e8bfbce812acf532aaef34d8e92ca335576478724d1d"

@@ -1,0 +1,8 @@
+name = "Chimes-v2.1.1-1.21.1-NeoForge.jar"
+filename = "Chimes-v2.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/015_Chimes-v2.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "83b83b60bb40f34b2422d785ca40e287eacb31a1fc3a4f9564ee9e7c3dcc283b"

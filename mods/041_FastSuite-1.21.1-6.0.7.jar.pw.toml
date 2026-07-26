@@ -1,0 +1,8 @@
+name = "FastSuite-1.21.1-6.0.7.jar"
+filename = "FastSuite-1.21.1-6.0.7.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/041_FastSuite-1.21.1-6.0.7.jar"
+hash-format = "sha256"
+hash = "3e274cd01bdc27dff8e2514213f1c45306c86fe38e4271a4209bc1471de6c70d"

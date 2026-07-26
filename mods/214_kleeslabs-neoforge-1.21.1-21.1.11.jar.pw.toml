@@ -1,0 +1,8 @@
+name = "kleeslabs-neoforge-1.21.1-21.1.11.jar"
+filename = "kleeslabs-neoforge-1.21.1-21.1.11.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/214_kleeslabs-neoforge-1.21.1-21.1.11.jar"
+hash-format = "sha256"
+hash = "b11876740df221138de51905aa1b90e811e784c47bf24cb16e3f4f0ff6409fa3"

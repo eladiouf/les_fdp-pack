@@ -1,0 +1,8 @@
+name = "StorageDrawers-neoforge-1.21.1-13.11.4.jar"
+filename = "StorageDrawers-neoforge-1.21.1-13.11.4.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/066_StorageDrawers-neoforge-1.21.1-13.11.4.jar"
+hash-format = "sha256"
+hash = "8bdbc98f32f4166061439e8dda346345012788ddebaeb743a3b585d8a0a0fbbc"

@@ -1,0 +1,8 @@
+name = "copycats-3.0.4+mc.1.21.1-neoforge.jar"
+filename = "copycats-3.0.4+mc.1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/115_copycats-3.0.4_mc.1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"

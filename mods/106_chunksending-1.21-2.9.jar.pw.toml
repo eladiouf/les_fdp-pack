@@ -1,0 +1,8 @@
+name = "chunksending-1.21-2.9.jar"
+filename = "chunksending-1.21-2.9.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/106_chunksending-1.21-2.9.jar"
+hash-format = "sha256"
+hash = "0e75df38c24984609800cb1ff52f4f132627846783503d5fed6f413f0fd35d31"

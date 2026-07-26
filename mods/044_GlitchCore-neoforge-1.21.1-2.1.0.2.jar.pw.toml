@@ -1,0 +1,8 @@
+name = "GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+filename = "GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/044_GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+hash-format = "sha256"
+hash = "d9ea421e7449a35cf3adc41c9f740156342b7b17a08b1be843660608af7b60f9"

@@ -1,0 +1,8 @@
+name = "createaeronauticscurios-neoforge-1.21.1-1.0.jar"
+filename = "createaeronauticscurios-neoforge-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/147_createaeronauticscurios-neoforge-1.21.1-1.0.jar"
+hash-format = "sha256"
+hash = "8f9c789bdb2cf65264cf1f3dc88201583d96fe726d64920c99e638a93de75ba3"

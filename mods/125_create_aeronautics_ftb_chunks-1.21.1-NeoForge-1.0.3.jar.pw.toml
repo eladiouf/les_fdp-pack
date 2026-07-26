@@ -1,0 +1,8 @@
+name = "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.0.3.jar"
+filename = "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/125_create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.0.3.jar"
+hash-format = "sha256"
+hash = "df2fee04118703fdf7abe2c8553092fb91317eae640a1e9270de9f6ebf680358"

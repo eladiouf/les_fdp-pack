@@ -1,0 +1,8 @@
+name = "easel_does_it-1.21.1-2.0.3.jar"
+filename = "easel_does_it-1.21.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/168_easel_does_it-1.21.1-2.0.3.jar"
+hash-format = "sha256"
+hash = "a55f93d3060e7e8ef9d78ba955606eaf390a6a8d0255179803b0744d3be039bd"

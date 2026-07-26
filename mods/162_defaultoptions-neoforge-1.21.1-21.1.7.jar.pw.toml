@@ -1,0 +1,8 @@
+name = "defaultoptions-neoforge-1.21.1-21.1.7.jar"
+filename = "defaultoptions-neoforge-1.21.1-21.1.7.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/162_defaultoptions-neoforge-1.21.1-21.1.7.jar"
+hash-format = "sha256"
+hash = "e55633bab9275da6d979a1aabd5f1d7115fd26e5cc9a6f43d110bd3908d7b40a"

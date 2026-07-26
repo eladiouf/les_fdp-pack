@@ -1,0 +1,8 @@
+name = "create_mf-1.0.1-overhauled.jar"
+filename = "create_mf-1.0.1-overhauled.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/135_create_mf-1.0.1-overhauled.jar"
+hash-format = "sha256"
+hash = "b2e111ecea284ead67df5eb5b02a38842504de21f706338e20a4f5a5c16eb124"

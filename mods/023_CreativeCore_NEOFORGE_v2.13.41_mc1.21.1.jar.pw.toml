@@ -1,0 +1,8 @@
+name = "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar"
+filename = "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/023_CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar"
+hash-format = "sha256"
+hash = "bd4164b9ec8e21775e34a99a8d21e5280ee8cc6d3bd003a1b32dc3ada59ae887"

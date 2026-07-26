@@ -1,0 +1,8 @@
+name = "ftb-ultimine-neoforge-2101.1.13.jar"
+filename = "ftb-ultimine-neoforge-2101.1.13.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/196_ftb-ultimine-neoforge-2101.1.13.jar"
+hash-format = "sha256"
+hash = "d27fa030dcd7cf7c31e8c706db8c0d40932f10218de4f34c653d672e4c5e92d7"

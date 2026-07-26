@@ -1,0 +1,8 @@
+name = "handcrafted-neoforge-1.21.1-4.0.3.jar"
+filename = "handcrafted-neoforge-1.21.1-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/205_handcrafted-neoforge-1.21.1-4.0.3.jar"
+hash-format = "sha256"
+hash = "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948"

@@ -1,0 +1,8 @@
+name = "SOB-NeoForge-1.21.1-1.0.0.jar"
+filename = "SOB-NeoForge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/063_SOB-NeoForge-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "1661023822d0e1651480e0b26bbb037a3013e5d2d3134b4d0f88141a32a72e30"

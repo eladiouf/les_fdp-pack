@@ -1,0 +1,8 @@
+name = "naturalist-1.0.2-neoforge-1.21.1.jar"
+filename = "naturalist-1.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/240_naturalist-1.0.2-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "04616a9f136c7a8fd6f9f75e83be80af33bc54924b3ca16b0f33d19273c25e95"

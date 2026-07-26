@@ -1,0 +1,8 @@
+name = "new_slab_variants-merged-1.21.1-3.0.1.jar"
+filename = "new_slab_variants-merged-1.21.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/241_new_slab_variants-merged-1.21.1-3.0.1.jar"
+hash-format = "sha256"
+hash = "f48760ae3d0aea4dd2164e6ad8244be00046b0772f5c887207ec5804df96b708"

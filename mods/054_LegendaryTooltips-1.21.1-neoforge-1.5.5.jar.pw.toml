@@ -1,0 +1,8 @@
+name = "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+filename = "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/054_LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+hash-format = "sha256"
+hash = "8ba2bc2cb894e48d8e7520d41c72ef7f429659c3ee58b029f4899c760b958493"

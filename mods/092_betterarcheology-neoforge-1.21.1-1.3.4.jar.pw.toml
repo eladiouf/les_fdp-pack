@@ -1,0 +1,8 @@
+name = "betterarcheology-neoforge-1.21.1-1.3.4.jar"
+filename = "betterarcheology-neoforge-1.21.1-1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/092_betterarcheology-neoforge-1.21.1-1.3.4.jar"
+hash-format = "sha256"
+hash = "e0b5b95dde1aed957b8727339340e0b6aaaca22702f2ac27ff7616ad6a1037c4"

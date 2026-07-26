@@ -1,0 +1,8 @@
+name = "KineticGrip-1.21.1-1.0.4.jar"
+filename = "KineticGrip-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/053_KineticGrip-1.21.1-1.0.4.jar"
+hash-format = "sha256"
+hash = "9892293d6b2587505bfd4335e7b895d9ff185f6c902b2a3c626f21689008cc2d"

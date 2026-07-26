@@ -1,0 +1,8 @@
+name = "Prism-1.21.1-neoforge-1.0.11.jar"
+filename = "Prism-1.21.1-neoforge-1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/061_Prism-1.21.1-neoforge-1.0.11.jar"
+hash-format = "sha256"
+hash = "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"

@@ -1,0 +1,8 @@
+name = "CustomSkinLoader_Universal-15.0.1.jar"
+filename = "CustomSkinLoader_Universal-15.0.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/027_CustomSkinLoader_Universal-15.0.1.jar"
+hash-format = "sha256"
+hash = "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc"

@@ -1,0 +1,8 @@
+name = "Advanced Stands MC 1.21.1 - 1.0.0 Neoforge.jar"
+filename = "Advanced Stands MC 1.21.1 - 1.0.0 Neoforge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/001_Advanced_Stands_MC_1.21.1_-_1.0.0_Neoforge.jar"
+hash-format = "sha256"
+hash = "1dd0935b773c3e19d85e1593c1779d6a54f3b26c999502e642716d4abb4ff68b"

@@ -1,0 +1,8 @@
+name = "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar"
+filename = "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/184_escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "ff8b80e23f8693581afe6b17388ec6d0cbd580c62894a2c97be37373cab37c1d"

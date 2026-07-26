@@ -1,0 +1,8 @@
+name = "geckolib-neoforge-1.21.1-4.9.2.jar"
+filename = "geckolib-neoforge-1.21.1-4.9.2.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/200_geckolib-neoforge-1.21.1-4.9.2.jar"
+hash-format = "sha256"
+hash = "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"

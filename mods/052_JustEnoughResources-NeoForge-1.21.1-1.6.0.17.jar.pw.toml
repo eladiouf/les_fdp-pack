@@ -1,0 +1,8 @@
+name = "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+filename = "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/052_JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+hash-format = "sha256"
+hash = "7a47d69b5530704690d5a5f0726cd74a2d6c57df17dd4a8589c4ab5212f91460"
