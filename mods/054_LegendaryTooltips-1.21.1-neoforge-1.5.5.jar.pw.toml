@@ -1,6 +1,6 @@
 name = "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
 filename = "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/054_LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"

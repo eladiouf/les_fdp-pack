@@ -1,6 +1,6 @@
 name = "entityculling-neoforge-1.10.5-mc1.21.1.jar"
 filename = "entityculling-neoforge-1.10.5-mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/179_entityculling-neoforge-1.10.5-mc1.21.1.jar"

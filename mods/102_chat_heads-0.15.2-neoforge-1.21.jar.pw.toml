@@ -1,6 +1,6 @@
 name = "chat_heads-0.15.2-neoforge-1.21.jar"
 filename = "chat_heads-0.15.2-neoforge-1.21.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/102_chat_heads-0.15.2-neoforge-1.21.jar"

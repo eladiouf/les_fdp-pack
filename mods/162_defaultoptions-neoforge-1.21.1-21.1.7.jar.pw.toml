@@ -1,6 +1,6 @@
 name = "defaultoptions-neoforge-1.21.1-21.1.7.jar"
 filename = "defaultoptions-neoforge-1.21.1-21.1.7.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/162_defaultoptions-neoforge-1.21.1-21.1.7.jar"

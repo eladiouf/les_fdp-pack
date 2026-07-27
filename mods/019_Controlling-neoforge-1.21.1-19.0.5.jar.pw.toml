@@ -1,6 +1,6 @@
 name = "Controlling-neoforge-1.21.1-19.0.5.jar"
 filename = "Controlling-neoforge-1.21.1-19.0.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/019_Controlling-neoforge-1.21.1-19.0.5.jar"

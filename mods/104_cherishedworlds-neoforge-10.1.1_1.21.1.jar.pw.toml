@@ -1,6 +1,6 @@
 name = "cherishedworlds-neoforge-10.1.1+1.21.1.jar"
 filename = "cherishedworlds-neoforge-10.1.1+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/104_cherishedworlds-neoforge-10.1.1_1.21.1.jar"

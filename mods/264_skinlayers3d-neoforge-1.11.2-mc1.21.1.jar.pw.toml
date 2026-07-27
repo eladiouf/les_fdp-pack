@@ -1,6 +1,6 @@
 name = "skinlayers3d-neoforge-1.11.2-mc1.21.1.jar"
 filename = "skinlayers3d-neoforge-1.11.2-mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/264_skinlayers3d-neoforge-1.11.2-mc1.21.1.jar"

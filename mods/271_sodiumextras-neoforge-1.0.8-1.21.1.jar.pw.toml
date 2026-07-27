@@ -1,6 +1,6 @@
 name = "sodiumextras-neoforge-1.0.8-1.21.1.jar"
 filename = "sodiumextras-neoforge-1.0.8-1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/271_sodiumextras-neoforge-1.0.8-1.21.1.jar"

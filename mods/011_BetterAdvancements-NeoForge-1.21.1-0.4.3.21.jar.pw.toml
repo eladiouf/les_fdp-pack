@@ -1,6 +1,6 @@
 name = "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
 filename = "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/011_BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"

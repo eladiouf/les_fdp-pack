@@ -1,6 +1,6 @@
 name = "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
 filename = "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/032_DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"

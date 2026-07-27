@@ -1,6 +1,6 @@
 name = "BadOptimizations-2.4.1-1.21.1.jar"
 filename = "BadOptimizations-2.4.1-1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/010_BadOptimizations-2.4.1-1.21.1.jar"

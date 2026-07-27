@@ -1,6 +1,6 @@
 name = "MouseTweaks-neoforge-mc1.21-2.26.1.jar"
 filename = "MouseTweaks-neoforge-mc1.21-2.26.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/056_MouseTweaks-neoforge-mc1.21-2.26.1.jar"

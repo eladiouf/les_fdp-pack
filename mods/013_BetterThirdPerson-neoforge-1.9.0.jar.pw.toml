@@ -1,6 +1,6 @@
 name = "BetterThirdPerson-neoforge-1.9.0.jar"
 filename = "BetterThirdPerson-neoforge-1.9.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://eladiouf.github.io/les_fdp-pack/files/013_BetterThirdPerson-neoforge-1.9.0.jar"
