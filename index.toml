@@ -1381,8 +1381,6 @@ hash = "9c2497d5cec6ec825e11527e0a724896e12a61d08907f7ec4b1fb6217f4bacdd"
 metafile = true
 
 [[files]]
-
-[[files]]
 file = "mods/284_tfmg-1.2.0.jar.pw.toml"
 hash = "2afb067b1598912d77cbaefbacd8f31f35670411b69bfd47903798f9596cf05d"
 metafile = true
