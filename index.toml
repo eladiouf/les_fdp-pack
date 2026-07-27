@@ -1519,3 +1519,8 @@ metafile = true
 file = "mods/311_t_and_t-neoforge-fabric-1.13.9+1.21.1.jar.pw.toml"
 hash = "80dd1bb9f97ce1fa7f9da9c117a0a4a0b374acb21ac5371bf930b94e484ea7cf"
 metafile = true
+
+[[files]]
+file = "mods/312_voicechat-neoforge-1.21.1-2.6.21.jar.pw.toml"
+hash = "901c4917960ce975cecc9a39c15d32c22beabc23ed3c36f0ce75df5a6cdd9366"
+metafile = true
