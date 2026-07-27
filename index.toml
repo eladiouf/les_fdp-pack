@@ -155,10 +155,6 @@ file = "mods/031_DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar.pw.toml"
 hash = "a13c4ff29cb03ee2db4dce20e44e8afe3002fbd6e9bf14754b8fcc98d222f2cd"
 metafile = true
 
-[[files]]
-file = "mods/032_DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar.pw.toml"
-hash = "d46af01dbf2ca3f17b66bf1353b6c971f7fe3f1f3dfdbbb9cae5d057b88aa4d9"
-metafile = true
 
 [[files]]
 file = "mods/033_DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar.pw.toml"
