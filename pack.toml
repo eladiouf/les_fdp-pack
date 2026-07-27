@@ -1,4 +1,4 @@
-name = "les_fdp"
+﻿name = "les_fdp"
 author = "eladiouf"
 version = "2.9.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4e6dcedef8f2fcaffd543420c1015986cdfa50be5636aa492829728754361d6b"
+hash = "761c5ff05b4910af94564da3474f3283024e467e6a346835460da0395238ad88"
 
 [versions]
 minecraft = "1.21.1"
