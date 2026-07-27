@@ -1505,3 +1505,7 @@ file = "mods/301_zombie_variants-neoforge-1.0.3-1.21.1.jar.pw.toml"
 hash = "3bcab4dccf46c0cdf65917ddfb6dbeb0220464768d9a2bf356563105f4f8e20b"
 metafile = true
 
+[[files]]
+file = "mods/302_livingthings-neoforge-1.21.1-2.3.0.jar.pw.toml"
+hash = "593c6328dfb4e3ee90abe7cfa308fa4eadd38b355a22a9a3161eb6346ea361e2"
+metafile = true
