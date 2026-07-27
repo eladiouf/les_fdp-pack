@@ -1,0 +1,13 @@
+name = "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+filename = "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/032_DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+hash-format = "sha256"
+hash = "d6a7a963f794501678113e2545d8b25c90e123ef6b9256bb5716907d059e1ef5"
+
+[update]
+[update.curseforge]
+file-id = 8389148
+project-id = 508933

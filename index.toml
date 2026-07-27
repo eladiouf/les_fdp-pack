@@ -154,6 +154,10 @@ metafile = true
 file = "mods/031_DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar.pw.toml"
 hash = "a13c4ff29cb03ee2db4dce20e44e8afe3002fbd6e9bf14754b8fcc98d222f2cd"
 metafile = true
+[[files]]
+file = "mods/032_DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar.pw.toml"
+hash = "938c44bea9b181ba4215488d7960c7d669298bc137c6d9882a47f2816b211730"
+metafile = true
 
 
 [[files]]
