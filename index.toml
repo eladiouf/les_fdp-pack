@@ -346,11 +346,6 @@ hash = "95077b6d09244267209a411e79c534a63afa1da697958b0786341a71e15da47e"
 metafile = true
 
 [[files]]
-file = "mods/069_ThirstWasTaken-1.21.1-2.1.5.jar.pw.toml"
-hash = "5357a39865a1777931c69ec8c31a60ad1d824f154cd1bcb0c20d16085eb22d28"
-metafile = true
-
-[[files]]
 file = "mods/070_ToastControl-1.21.1-9.0.1.jar.pw.toml"
 hash = "cdbc7dc1ae3be54054e6e757d8f016fdc9d0654dea34afeee9fedab0708d7e19"
 metafile = true
