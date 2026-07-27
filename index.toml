@@ -1091,11 +1091,6 @@ hash = "fab7290163ec28c271630396671b6a151ef8bb17ba604aa53b43146dbd1376ad"
 metafile = true
 
 [[files]]
-file = "mods/218_livingthings-neoforge-1.21.1-2.3.0.jar.pw.toml"
-hash = "2c0535221710f6361b9057c44de975342ebedda573502affbc2c7d711e59485a"
-metafile = true
-
-[[files]]
 file = "mods/219_longer_following_time-merged-1.21.1-1.1.0.jar.pw.toml"
 hash = "5df12635ba40f5bbc225769743552f7c3a28f9b5afd495b4c366f897f1e427c7"
 metafile = true
