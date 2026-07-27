@@ -1,0 +1,8 @@
+name = "Cocktails-Delight-1.21.1-NeoForge-1.1.8.jar"
+filename = "303_Cocktails-Delight-1.21.1-NeoForge-1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/303_Cocktails-Delight-1.21.1-NeoForge-1.1.8.jar"
+hash-format = "sha256"
+hash = "ead3a6e90bb0ce1c13372a39c532bcb0f3cc091f275bf3ecd6e11fc73c633f38"

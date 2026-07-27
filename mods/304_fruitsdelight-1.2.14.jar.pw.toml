@@ -1,0 +1,8 @@
+name = "fruitsdelight-1.2.14.jar"
+filename = "304_fruitsdelight-1.2.14.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/304_fruitsdelight-1.2.14.jar"
+hash-format = "sha256"
+hash = "be879897de3e5499a75ca79688739dc480d963a58262f2f126b66ca05f89eed2"
