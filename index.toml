@@ -1381,9 +1381,6 @@ hash = "9c2497d5cec6ec825e11527e0a724896e12a61d08907f7ec4b1fb6217f4bacdd"
 metafile = true
 
 [[files]]
-file = "mods/283_tectonic-3.0.26-neoforge-21.1.jar.pw.toml"
-hash = "05b280ef5353fced5b698a046d7345fabf6671bd22a187ace7d29b42104154de"
-metafile = true
 
 [[files]]
 file = "mods/284_tfmg-1.2.0.jar.pw.toml"
