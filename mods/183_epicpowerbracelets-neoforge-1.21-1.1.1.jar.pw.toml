@@ -1,8 +1,0 @@
-name = "epicpowerbracelets-neoforge-1.21-1.1.1.jar"
-filename = "epicpowerbracelets-neoforge-1.21-1.1.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/183_epicpowerbracelets-neoforge-1.21-1.1.1.jar"
-hash-format = "sha256"
-hash = "37046882c81b28697a5b16ab0fc374ea78bc8856945b7b1e73cd9c4c6f338bb0"

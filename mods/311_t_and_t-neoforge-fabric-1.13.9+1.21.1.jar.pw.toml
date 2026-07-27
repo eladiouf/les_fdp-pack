@@ -1,0 +1,8 @@
+name = "t_and_t-neoforge-fabric-1.13.9+1.21.1.jar"
+filename = "t_and_t-neoforge-fabric-1.13.9+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://eladiouf.github.io/les_fdp-pack/files/311_t_and_t-neoforge-fabric-1.13.9+1.21.1.jar"
+hash-format = "sha256"
+hash = "04e3a5f6e9aa83b2f305e836ed6bceb656c7a6cae8d945415fd8d55bc2450696"

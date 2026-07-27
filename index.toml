@@ -781,8 +781,8 @@ hash = "bca625d55538e12cfb135b1a2918a7aec4a37354a1a037580706b7ba6c84f10a"
 metafile = true
 
 [[files]]
-file = "mods/158_cristellib-neoforge-1.21.1-3.0.2.1.jar.pw.toml"
-hash = "7903fe260ecc5d83a534ebb2c7c25d91d370a7b3ae5433ad4522cef2c81e234c"
+file = "mods/158_cristellib-neoforge-1.21.1-3.1.7.jar.pw.toml"
+hash = "83896c16e031471da0cc8aa0ea284ef7312e0bc3afce7b67d20ea936196d1ffb"
 metafile = true
 
 [[files]]
@@ -888,26 +888,6 @@ metafile = true
 [[files]]
 file = "mods/179_entityculling-neoforge-1.10.5-mc1.21.1.jar.pw.toml"
 hash = "f9a6d22c3ecef074b263522552d143b07ae292f5019f5ab9e177c9dd5dbd3249"
-metafile = true
-
-[[files]]
-file = "mods/180_epic_x_parcool-neoforge-21.0.0-1.21.1.jar.pw.toml"
-hash = "9a216801770637bd92f6cb2f13fbbfa38f04cd6a2d6807faf24b075c1c768e1f"
-metafile = true
-
-[[files]]
-file = "mods/181_epic-fight-21.17.3.1-mc1.21.1-neoforge.jar.pw.toml"
-hash = "a705513938867bc995f8872d53b286023e28c906e0bc4c07c51ed426eb768dcb"
-metafile = true
-
-[[files]]
-file = "mods/182_epicfight-skilltree-neoforge-21.3.3-1.21.1.jar.pw.toml"
-hash = "3917145423e1ad3da7a1ca53fb90b03f94593de621cea819b8f07098ab5c6fd5"
-metafile = true
-
-[[files]]
-file = "mods/183_epicpowerbracelets-neoforge-1.21-1.1.1.jar.pw.toml"
-hash = "d69353918925a063304fe793065744651eb68cb6162eb27eb587fb90f1d58a18"
 metafile = true
 
 [[files]]
@@ -1518,4 +1498,29 @@ metafile = true
 [[files]]
 file = "mods/306_BrewinAndChewin-neoforge-4.4.2+1.21.1.jar.pw.toml"
 hash = "1256c97325b1f900eaef7e4f69fe4491a88f17ee1b1a9eb1f32eff16f4050293"
+metafile = true
+
+[[files]]
+file = "mods/307_bettercombat-neoforge-2.4.0+1.21.1.jar.pw.toml"
+hash = "cd27b4a6252c313daeacf867eaa6d4c5f5b8c3148e8079c8964fffd4873b51b7"
+metafile = true
+
+[[files]]
+file = "mods/308_lithosphere-1.6.jar.pw.toml"
+hash = "d95bf16a6bb1f5612657ab2acb42d0b171a0b8fe1c8db11fc1cc90ccfe43c158"
+metafile = true
+
+[[files]]
+file = "mods/309_still-life-0.1.1.jar.pw.toml"
+hash = "8befdaf5a45ef2c303a2b50a083ae5ee3dc796eece0951b607a96d9a814bf81c"
+metafile = true
+
+[[files]]
+file = "mods/310_TreeChop-1.21.1-neoforge-0.19.3.jar.pw.toml"
+hash = "2a39328d3cff40d1e378e814b98f6b37518afb5d25438e83514f700b3247bb9f"
+metafile = true
+
+[[files]]
+file = "mods/311_t_and_t-neoforge-fabric-1.13.9+1.21.1.jar.pw.toml"
+hash = "80dd1bb9f97ce1fa7f9da9c117a0a4a0b374acb21ac5371bf930b94e484ea7cf"
 metafile = true
