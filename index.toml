@@ -161,8 +161,8 @@ hash = "a13c4ff29cb03ee2db4dce20e44e8afe3002fbd6e9bf14754b8fcc98d222f2cd"
 metafile = true
 
 [[files]]
-file = "mods/032_DistantHorizons-3.2.0-b-1.21.1.jar.pw.toml"
-hash = "7805fd7efe9ba539d093a168ba4f380ea1359a18263576df1c6f868d80e485a3"
+file = "mods/032_DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar.pw.toml"
+hash = "295771170a670ee76b4333efd045e12425e8428cc4010d5b3f4928c82375ac24"
 metafile = true
 
 [[files]]

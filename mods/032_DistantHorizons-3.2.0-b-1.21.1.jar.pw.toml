@@ -1,8 +1,0 @@
-name = "DistantHorizons-3.2.0-b-1.21.1.jar"
-filename = "DistantHorizons-3.2.0-b-1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/032_DistantHorizons-3.2.0-b-1.21.1.jar"
-hash-format = "sha256"
-hash = "e65f0953b4d3cb677926a71a9df3110c05df07a80af98abe6fd9a17b3bf8ccf2"
