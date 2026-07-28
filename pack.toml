@@ -1,13 +1,1 @@
-name = "les_fdp"
-author = "eladiouf"
-version = "2.9.1"
-pack-format = "packwiz:1.1.0"
-
-[index]
-file = "index.toml"
-hash-format = "sha256"
-hash = "6bfcc3fc48b781a2d89c4600b05c25acba73ecf9deb32f8dc46dc97e3bcaa5b5"
-
-[versions]
-minecraft = "1.21.1"
-neoforge = "21.1.235"
+name = "les_fdp"author = "eladiouf"version = "2.9.1"pack-format = "packwiz:1.1.0"[index]file = "index.toml"hash-format = "sha256"hash = "0ecafafc998283e4694086a190866ac9d60a704196be371302936033918cb2d1"[versions]minecraft = "1.21.1"neoforge = "21.1.235"
