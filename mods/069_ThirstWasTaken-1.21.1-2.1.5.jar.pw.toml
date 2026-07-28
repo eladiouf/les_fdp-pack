@@ -1,0 +1,8 @@
+name = "ThirstWasTaken-1.21.1-2.1.5.jar"
+filename = "ThirstWasTaken-1.21.1-2.1.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/069_ThirstWasTaken-1.21.1-2.1.5.jar"
+hash-format = "sha256"
+hash = "bb85efe4dfebbd2546cde8afeb0498944f6069ace7249be8aa7522ad08772569"

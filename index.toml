@@ -341,6 +341,11 @@ hash = "95077b6d09244267209a411e79c534a63afa1da697958b0786341a71e15da47e"
 metafile = true
 
 [[files]]
+file = "mods/069_ThirstWasTaken-1.21.1-2.1.5.jar.pw.toml"
+hash = "905e9b9a7d84c06d779898791eb814082c7588093fb636abcfb26e4489aaf852"
+metafile = true
+
+[[files]]
 file = "mods/070_ToastControl-1.21.1-9.0.1.jar.pw.toml"
 hash = "dd2b918586b158cb5c63efcf3a4a35ab9d0ebdc6618d7b45163b6593771d946e"
 metafile = true
@@ -1486,11 +1491,6 @@ hash = "7a3e75fdff8a67393c3e5149d6f767a828a3a585081cc7c0704bffa15ab9681b"
 metafile = true
 
 [[files]]
-file = "mods/305_ThirstCanteen-1.21.1-3.5.jar.pw.toml"
-hash = "24e863f9c0a403e779fab64bce0f085ca0ca66af71449140a85d67caf18890a7"
-metafile = true
-
-[[files]]
 file = "mods/306_BrewinAndChewin-neoforge-4.4.2+1.21.1.jar.pw.toml"
 hash = "1256c97325b1f900eaef7e4f69fe4491a88f17ee1b1a9eb1f32eff16f4050293"
 metafile = true
@@ -1513,11 +1513,6 @@ metafile = true
 [[files]]
 file = "mods/310_TreeChop-1.21.1-neoforge-0.19.3.jar.pw.toml"
 hash = "2a39328d3cff40d1e378e814b98f6b37518afb5d25438e83514f700b3247bb9f"
-metafile = true
-
-[[files]]
-file = "mods/311_t_and_t-neoforge-fabric-1.13.9+1.21.1.jar.pw.toml"
-hash = "80dd1bb9f97ce1fa7f9da9c117a0a4a0b374acb21ac5371bf930b94e484ea7cf"
 metafile = true
 
 [[files]]
