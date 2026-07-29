@@ -1519,3 +1519,13 @@ metafile = true
 file = "mods/312_voicechat-neoforge-1.21.1-2.6.21.jar.pw.toml"
 hash = "32d0b3367232c666c30d6a9015359c5a2f5d41ba42b225e287db8a282bf41664"
 metafile = true
+
+[[files]]
+file = "mods/313_Ping-Wheel-1.12.2-neoforge-1.21.1.jar.pw.toml"
+hash = "b1e81e0b108e641a73e2a9452298d4a2c90d01759381e88556e98b2978d793a6"
+metafile = true
+
+[[files]]
+file = "mods/314_toms_storage-1.21-2.4.1.jar.pw.toml"
+hash = "b1c217d5ef4574922d63735e5cfef30f6d52ffda4024881c91932c829214c329"
+metafile = true

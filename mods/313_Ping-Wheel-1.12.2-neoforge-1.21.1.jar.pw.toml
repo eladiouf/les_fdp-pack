@@ -1,0 +1,8 @@
+name = "Ping-Wheel-1.12.2-neoforge-1.21.1.jar"
+filename = "Ping-Wheel-1.12.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/313_Ping-Wheel-1.12.2-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "fcff3528dfc644dd510e702c51af477c11ddbee07895b9ba906e3f0dbc9c4077"

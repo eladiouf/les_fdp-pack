@@ -1,0 +1,8 @@
+name = "toms_storage-1.21-2.4.1.jar"
+filename = "toms_storage-1.21-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/314_toms_storage-1.21-2.4.1.jar"
+hash-format = "sha256"
+hash = "bb31b1ca0f6421f2828658b003f552d278b95daaf827c0f41a6d080ed7e2614f"
