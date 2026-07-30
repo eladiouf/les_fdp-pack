@@ -1529,3 +1529,8 @@ metafile = true
 file = "mods/314_toms_storage-1.21-2.4.1.jar.pw.toml"
 hash = "b1c217d5ef4574922d63735e5cfef30f6d52ffda4024881c91932c829214c329"
 metafile = true
+
+[[files]]
+file = "mods/315_EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar.pw.toml"
+hash = "ec4229f68fd4871e624a8c82beedbda4acd95d926dd35d2ce50cd451164319c3"
+metafile = true
