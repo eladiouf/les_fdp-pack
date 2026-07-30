@@ -1,0 +1,8 @@
+name = "customtimecycle-neoforge-0.1.5-1.21.1.jar"
+filename = "customtimecycle-neoforge-0.1.5-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/316_customtimecycle-neoforge-0.1.5-1.21.1.jar"
+hash-format = "sha256"
+hash = "69e51fead42d29aceaeb4e13d3dd5b7a669cbdf2550a402dcdf5ff17261708a1"

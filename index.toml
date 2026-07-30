@@ -1534,3 +1534,8 @@ metafile = true
 file = "mods/315_EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar.pw.toml"
 hash = "ec4229f68fd4871e624a8c82beedbda4acd95d926dd35d2ce50cd451164319c3"
 metafile = true
+
+[[files]]
+file = "mods/316_customtimecycle-neoforge-0.1.5-1.21.1.jar.pw.toml"
+hash = "1d6bde3df09ace21acba6db1dd7519d03e6ba9e79bf5d4c3e2bee9cbe518ff7d"
+metafile = true
