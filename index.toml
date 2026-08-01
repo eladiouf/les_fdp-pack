@@ -1549,3 +1549,8 @@ metafile = true
 file = "mods/318_pipesnphysics-3.0.1.jar.pw.toml"
 hash = "6e099fcd344537da1e8704e71d0b0cb8ed0ea9359cf3b4320a1b6d858340c193"
 metafile = true
+
+[[files]]
+file = "mods/319_neoculus-mc1.21.1-1.8.7.jar.pw.toml"
+hash = "3a38048480fd35ad332dfd05233c400909b16d71d0e15ea6a5b51ed7b10a14cc"
+metafile = true
