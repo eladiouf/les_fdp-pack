@@ -1,0 +1,8 @@
+﻿name = "mokels_bossfight_saphyra-2.0.2-forge-1.20.1.jar"
+filename = "mokels_bossfight_saphyra-2.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/480_mokels_bossfight_saphyra-2.0.2-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "26d41635c8d250545d1dad88a92df3121ba53529453659f8eb8668a39d1aaf23"

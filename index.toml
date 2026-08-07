@@ -2396,6 +2396,11 @@ hash = "35fb22aa47570bdfeb963fd2af5486d48421855d00ffce557cb4785392ac41b9"
 metafile = true
 
 [[files]]
+file = "mods/480_mokels_bossfight_saphyra-2.0.2-forge-1.20.1.jar.pw.toml"
+hash = "badbf2ecba19fc3fec2c23e0bf71968d59770efac264292c8ece6af4dbd7a83f"
+metafile = true
+
+[[files]]
 file = "mods/480_zylob-forge1.20.1-0.3.0Fix-EpicFight20.11+.jar.pw.toml"
 hash = "85c13c44d04837d1f43fcd05bb0a9ed3468cc57761b07b9957977457cf4cffce"
 metafile = true
