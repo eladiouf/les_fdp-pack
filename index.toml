@@ -2191,11 +2191,6 @@ hash = "340dceb98e927c5a7e0007504cc93975868c0cca7d350f71248f2182e752fd4c"
 metafile = true
 
 [[files]]
-file = "mods/438_statmod-0.1.0+1.20.1.jar.pw.toml"
-hash = "6b048423f1599ced65e88e6e2bf9eb387cbdfe27722f8515bca1c87edc0c2fd4"
-metafile = true
-
-[[files]]
 file = "mods/439_statuseffectbars-1.20.1-Forge-1.0.3.jar.pw.toml"
 hash = "9e3636771976cf5471d6c345aa53f59cb544bff48f554ec46c4e5be2874566a6"
 metafile = true
