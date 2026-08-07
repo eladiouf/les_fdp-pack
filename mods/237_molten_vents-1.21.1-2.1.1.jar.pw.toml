@@ -1,8 +1,0 @@
-name = "molten_vents-1.21.1-2.1.1.jar"
-filename = "molten_vents-1.21.1-2.1.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/237_molten_vents-1.21.1-2.1.1.jar"
-hash-format = "sha256"
-hash = "62aa307741ae10c3df3bd364dfe2e706413a1b428601ff61e4aeb5049cc40b5c"

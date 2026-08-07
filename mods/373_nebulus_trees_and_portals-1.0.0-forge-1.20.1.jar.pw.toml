@@ -1,0 +1,8 @@
+name = "nebulus_trees_and_portals-1.0.0-forge-1.20.1.jar"
+filename = "nebulus_trees_and_portals-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/373_nebulus_trees_and_portals-1.0.0-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "e376fcb77fdc4414091e7f5182ea8a882a98ad3d8b806d725e5c91037e9d311c"

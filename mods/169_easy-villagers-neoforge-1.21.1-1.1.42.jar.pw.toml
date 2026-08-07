@@ -1,8 +1,0 @@
-name = "easy-villagers-neoforge-1.21.1-1.1.42.jar"
-filename = "easy-villagers-neoforge-1.21.1-1.1.42.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/169_easy-villagers-neoforge-1.21.1-1.1.42.jar"
-hash-format = "sha256"
-hash = "e093c86ce419fc1fab1533bed5fa95b509b1f7240760c5ab628de228b55c9d50"

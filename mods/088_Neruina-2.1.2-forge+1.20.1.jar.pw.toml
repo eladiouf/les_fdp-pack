@@ -1,0 +1,8 @@
+name = "Neruina-2.1.2-forge+1.20.1.jar"
+filename = "Neruina-2.1.2-forge+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/088_Neruina-2.1.2-forge+1.20.1.jar"
+hash-format = "sha256"
+hash = "668f473decda11ae55facd47248476bfbaac428fd90661a28b48b7c262d1ab36"

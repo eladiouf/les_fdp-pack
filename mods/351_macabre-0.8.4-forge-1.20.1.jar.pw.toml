@@ -1,0 +1,8 @@
+name = "macabre-0.8.4-forge-1.20.1.jar"
+filename = "macabre-0.8.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/351_macabre-0.8.4-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "3fbde7bf73646b4582e9f21563151d9426529c18ca64debcdc9969c22fedc745"

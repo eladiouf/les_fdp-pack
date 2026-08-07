@@ -1,0 +1,8 @@
+name = "UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar"
+filename = "UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/133_UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "3c42921f34283f5e137f6c98d3f691de3a942bb0adac3dbcb5b9311d73a86b20"

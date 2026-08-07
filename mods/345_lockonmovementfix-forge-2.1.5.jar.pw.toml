@@ -1,0 +1,8 @@
+name = "lockonmovementfix-forge-2.1.5.jar"
+filename = "lockonmovementfix-forge-2.1.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/345_lockonmovementfix-forge-2.1.5.jar"
+hash-format = "sha256"
+hash = "a871bb93bfadb6e4ecc052de0de3f5e9061e4da6b25e8d5811663b2478129208"

@@ -1,0 +1,8 @@
+name = "farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar"
+filename = "farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/269_farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar"
+hash-format = "sha256"
+hash = "538b2554ec28b41019d58c81e1c12c8e7fd0e0e8011049c8e57e4e6ddff39638"

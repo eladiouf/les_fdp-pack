@@ -1,0 +1,8 @@
+name = "fantasy_armor-forge-1.2.4-1.20.1.jar"
+filename = "fantasy_armor-forge-1.2.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/266_fantasy_armor-forge-1.2.4-1.20.1.jar"
+hash-format = "sha256"
+hash = "60723448eb979d29da51bd6fe71e6ef1b695decd3d91da76f1e970664bf80693"

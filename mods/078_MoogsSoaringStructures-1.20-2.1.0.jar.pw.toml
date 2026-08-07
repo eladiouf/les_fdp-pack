@@ -1,0 +1,8 @@
+name = "MoogsSoaringStructures-1.20-2.1.0.jar"
+filename = "MoogsSoaringStructures-1.20-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/078_MoogsSoaringStructures-1.20-2.1.0.jar"
+hash-format = "sha256"
+hash = "4e5f49cb8d7f6ba6666c1efe595c227a68bbd9186d861ea2d628bb43475fff27"

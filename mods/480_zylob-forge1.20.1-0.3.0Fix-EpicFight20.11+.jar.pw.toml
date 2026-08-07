@@ -1,0 +1,8 @@
+name = "zylob-forge1.20.1-0.3.0Fix-EpicFight20.11+.jar"
+filename = "zylob-forge1.20.1-0.3.0Fix-EpicFight20.11+.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/480_zylob-forge1.20.1-0.3.0Fix-EpicFight20.11+.jar"
+hash-format = "sha256"
+hash = "7b9114bc3fb56b1bcd323d1cfcee50281d0489b9190f9178caa54fb9b45cb9a9"

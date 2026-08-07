@@ -1,0 +1,8 @@
+name = "betterendcities-1.0.0-1.20.1.jar"
+filename = "betterendcities-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/167_betterendcities-1.0.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "162853b270c7b47395704025f7e4e6ff2983c3e19fc6a806f0fc04ab6e422a29"

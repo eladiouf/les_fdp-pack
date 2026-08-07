@@ -1,0 +1,8 @@
+name = "gtbcs_spell_lib-1.5.0-1.20.1.jar"
+filename = "gtbcs_spell_lib-1.5.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/301_gtbcs_spell_lib-1.5.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "33cf72f9863f1b601e9562a40f1bd3a15f799178dcd7918778e4df3ede3b921e"

@@ -1,8 +1,0 @@
-name = "portablespawner-neoforge-1.21.1-1.0.0.jar"
-filename = "portablespawner-neoforge-1.21.1-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/249_portablespawner-neoforge-1.21.1-1.0.0.jar"
-hash-format = "sha256"
-hash = "b8992ae5870a4c6fcc81bf37821c0a4e075469c535f53a8701998ddf70fa08fe"

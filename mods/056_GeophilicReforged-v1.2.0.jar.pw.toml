@@ -1,0 +1,8 @@
+name = "GeophilicReforged-v1.2.0.jar"
+filename = "GeophilicReforged-v1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/056_GeophilicReforged-v1.2.0.jar"
+hash-format = "sha256"
+hash = "ad95a25d38477c38eb43304d9e49a5040684b39c6b02a131d7778203883b1ef3"

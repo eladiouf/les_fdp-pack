@@ -1,0 +1,8 @@
+name = "cinematiczoom-1.0.0k.jar"
+filename = "cinematiczoom-1.0.0k.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/185_cinematiczoom-1.0.0k.jar"
+hash-format = "sha256"
+hash = "ecf0d2b01eb9a3f82a10b208b926eba251d3087d3c92b864f79d153b4b5f589f"

@@ -1,0 +1,8 @@
+name = "better_climbing-forge-3.jar"
+filename = "better_climbing-forge-3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/165_better_climbing-forge-3.jar"
+hash-format = "sha256"
+hash = "9874cd89bc411d42ae863ece554d53be1adc11f1ce7bdd9cfd5c967e5bb7d265"

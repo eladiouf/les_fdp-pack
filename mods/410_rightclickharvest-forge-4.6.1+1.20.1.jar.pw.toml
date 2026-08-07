@@ -1,0 +1,8 @@
+name = "rightclickharvest-forge-4.6.1+1.20.1.jar"
+filename = "rightclickharvest-forge-4.6.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/410_rightclickharvest-forge-4.6.1+1.20.1.jar"
+hash-format = "sha256"
+hash = "e7ae955174869497a7aa855cf859aba6f37abbb2a93b53e9e05935cf7709cc0a"

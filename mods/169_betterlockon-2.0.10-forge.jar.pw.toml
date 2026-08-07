@@ -1,0 +1,8 @@
+name = "betterlockon-2.0.10-forge.jar"
+filename = "betterlockon-2.0.10-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/169_betterlockon-2.0.10-forge.jar"
+hash-format = "sha256"
+hash = "5f71bdb06c2874a9a23e1d1fff143c0c6cb3dda5072f5258960f741cae7d1578"

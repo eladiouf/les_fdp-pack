@@ -1,0 +1,8 @@
+name = "goetyhostility-1.4.4.jar"
+filename = "goetyhostility-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/296_goetyhostility-1.4.4.jar"
+hash-format = "sha256"
+hash = "af80732556ee98551c8b3ae57ee6ddce68f8b0e29035406799543dfd7ff5becd"

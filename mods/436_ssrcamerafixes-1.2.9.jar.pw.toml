@@ -1,0 +1,8 @@
+name = "ssrcamerafixes-1.2.9.jar"
+filename = "ssrcamerafixes-1.2.9.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/436_ssrcamerafixes-1.2.9.jar"
+hash-format = "sha256"
+hash = "4506cfc057dda29a182598de98d2e6f71d52f49cdaafb704ae7989c9176e34f1"

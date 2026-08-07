@@ -1,0 +1,8 @@
+name = "MoogsNetherStructures-1.20-3.0.0.jar"
+filename = "MoogsNetherStructures-1.20-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/077_MoogsNetherStructures-1.20-3.0.0.jar"
+hash-format = "sha256"
+hash = "b745fd3cdd8bcee4fa10f38ed44fb3244daeb0c85e4417bbcc9b9aa4587cc79c"

@@ -1,0 +1,8 @@
+name = "epictweaks-forge-1.20.1-1.1.1.jar"
+filename = "epictweaks-forge-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/259_epictweaks-forge-1.20.1-1.1.1.jar"
+hash-format = "sha256"
+hash = "cea73bc3894a0c0dbeb9e3ed77ca2b2c4432842c3da59570dbfd1208e12cb8db"

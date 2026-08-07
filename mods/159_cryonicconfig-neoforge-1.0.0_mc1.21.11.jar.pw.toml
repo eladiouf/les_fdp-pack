@@ -1,8 +1,0 @@
-name = "cryonicconfig-neoforge-1.0.0+mc1.21.11.jar"
-filename = "cryonicconfig-neoforge-1.0.0+mc1.21.11.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/159_cryonicconfig-neoforge-1.0.0_mc1.21.11.jar"
-hash-format = "sha256"
-hash = "a33856fd37d787b3bd4103d5c045e669c2f4274efb8d10f1ee0a759911a21e2c"

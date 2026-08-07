@@ -1,0 +1,8 @@
+name = "immersivedamageindicators-forge-1.0.0-1.20.1.jar"
+filename = "immersivedamageindicators-forge-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/319_immersivedamageindicators-forge-1.0.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "767a7e5b4794d0fbc877e9226c9a7f90eb080319b3dd37ad5328e18541a78b45"

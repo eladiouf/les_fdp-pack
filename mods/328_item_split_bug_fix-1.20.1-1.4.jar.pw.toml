@@ -1,0 +1,8 @@
+name = "item_split_bug_fix-1.20.1-1.4.jar"
+filename = "item_split_bug_fix-1.20.1-1.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/328_item_split_bug_fix-1.20.1-1.4.jar"
+hash-format = "sha256"
+hash = "cb248b87b0308662cf28c0346eca7ed64d2915c2858e020ee2e719ab662bf622"

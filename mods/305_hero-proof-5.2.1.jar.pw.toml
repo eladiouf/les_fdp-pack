@@ -1,0 +1,8 @@
+name = "hero-proof-5.2.1.jar"
+filename = "hero-proof-5.2.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/305_hero-proof-5.2.1.jar"
+hash-format = "sha256"
+hash = "fbcabfe2a21932246b03fee251395ec4d20ca37aee88e5cb476f066534ace9e2"

@@ -1,0 +1,8 @@
+name = "sherdsapi-neoforge-1.20.1-4.0.4.jar"
+filename = "sherdsapi-neoforge-1.20.1-4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/419_sherdsapi-neoforge-1.20.1-4.0.4.jar"
+hash-format = "sha256"
+hash = "a9b61366566b61145eb42d6ddf68337683396b7a7f5d763d9c2632bef845d64a"

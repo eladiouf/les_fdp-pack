@@ -1,0 +1,8 @@
+name = "bowinfinityfix-1.20.x-forge-2.6.0.jar"
+filename = "bowinfinityfix-1.20.x-forge-2.6.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/176_bowinfinityfix-1.20.x-forge-2.6.0.jar"
+hash-format = "sha256"
+hash = "a4ca1659fe31477b54e4741a6639e0b930043718a29870e94f59fcb27a46948c"

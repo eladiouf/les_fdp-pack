@@ -1,0 +1,8 @@
+name = "EndingLibrary-1.20.1-2.1.15fix-all.jar"
+filename = "EndingLibrary-1.20.1-2.1.15fix-all.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/040_EndingLibrary-1.20.1-2.1.15fix-all.jar"
+hash-format = "sha256"
+hash = "3eb5efd4e36e7b8280e29be4de01cd282d2ed989039b3c9122a87b6143131a07"

@@ -1,8 +1,0 @@
-name = "weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
-filename = "weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/296_weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
-hash-format = "sha256"
-hash = "af0de505aef99fa9feca6b969932b28b834f4663dcb95c12bf65dccbe304a605"

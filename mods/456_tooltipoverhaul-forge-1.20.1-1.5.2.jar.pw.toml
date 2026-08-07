@@ -1,0 +1,8 @@
+name = "tooltipoverhaul-forge-1.20.1-1.5.2.jar"
+filename = "tooltipoverhaul-forge-1.20.1-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/456_tooltipoverhaul-forge-1.20.1-1.5.2.jar"
+hash-format = "sha256"
+hash = "3aab193c46d033c84a88450b786774dc1fafa28ae9fffba4d2cd19afb06fa485"

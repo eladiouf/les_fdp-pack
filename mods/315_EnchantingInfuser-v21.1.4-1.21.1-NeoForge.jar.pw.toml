@@ -1,8 +1,0 @@
-name = "EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar"
-filename = "EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/315_EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar"
-hash-format = "sha256"
-hash = "8f0d315de1e404e5760297b862ab13f1d0f16246f9e6ce1db612ac332c4a2089"

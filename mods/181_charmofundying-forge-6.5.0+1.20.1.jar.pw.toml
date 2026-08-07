@@ -1,0 +1,8 @@
+name = "charmofundying-forge-6.5.0+1.20.1.jar"
+filename = "charmofundying-forge-6.5.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/181_charmofundying-forge-6.5.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "9e0dc303fe2b96db0707487bff0e1cb1173d4e54367364130655c25f2c219f2f"

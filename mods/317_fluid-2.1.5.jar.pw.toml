@@ -1,8 +1,0 @@
-name = "fluid-2.1.5.jar"
-filename = "fluid-2.1.5.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/317_fluid-2.1.5.jar"
-hash-format = "sha256"
-hash = "a9c06212169fcbcb26c62dc3588444a404d122ffb721e68655c834d2876badcd"

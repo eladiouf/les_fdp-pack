@@ -1,0 +1,8 @@
+name = "opacpvp-forge-1.0.1-1.20.1.jar"
+filename = "opacpvp-forge-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/381_opacpvp-forge-1.0.1-1.20.1.jar"
+hash-format = "sha256"
+hash = "fc266bc54b6f38db3228f829a1a4426160302c2a09f0f5993f67eba714033db2"

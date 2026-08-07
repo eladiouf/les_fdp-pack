@@ -1,8 +1,0 @@
-name = "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
-filename = "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/300_yet_another_config_lib_v3-3.8.2_1.21.1-neoforge.jar"
-hash-format = "sha256"
-hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"

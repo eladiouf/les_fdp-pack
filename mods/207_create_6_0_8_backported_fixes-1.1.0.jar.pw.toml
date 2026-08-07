@@ -1,0 +1,8 @@
+name = "create_6_0_8_backported_fixes-1.1.0.jar"
+filename = "create_6_0_8_backported_fixes-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/207_create_6_0_8_backported_fixes-1.1.0.jar"
+hash-format = "sha256"
+hash = "e4834d5ed8462820281ef354a58e3cd4aad116694e8b885c7aa961bfe10180ea"

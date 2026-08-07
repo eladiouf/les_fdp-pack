@@ -1,0 +1,8 @@
+name = "ruined_lighthouse-1.0.1-forge-1.20.1.jar"
+filename = "ruined_lighthouse-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/412_ruined_lighthouse-1.0.1-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "eb0723bab5803b8a04f544a0a6315e5b77890571ff605ef0e48681423d403b9a"

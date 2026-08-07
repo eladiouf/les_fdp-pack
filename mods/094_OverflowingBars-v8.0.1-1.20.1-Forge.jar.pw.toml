@@ -1,0 +1,8 @@
+name = "OverflowingBars-v8.0.1-1.20.1-Forge.jar"
+filename = "OverflowingBars-v8.0.1-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/094_OverflowingBars-v8.0.1-1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "43304f93366c8581b51c8d5198ebb2b1b726787c3aff5d280a4ef8971bdd0ea7"

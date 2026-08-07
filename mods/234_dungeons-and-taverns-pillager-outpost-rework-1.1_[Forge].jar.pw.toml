@@ -1,0 +1,8 @@
+name = "dungeons-and-taverns-pillager-outpost-rework-1.1 [Forge].jar"
+filename = "dungeons-and-taverns-pillager-outpost-rework-1.1 [Forge].jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/234_dungeons-and-taverns-pillager-outpost-rework-1.1_[Forge].jar"
+hash-format = "sha256"
+hash = "7235cd1a473a565cf1c0d5f098233e8de68068924322d6faccde47bb14346135"

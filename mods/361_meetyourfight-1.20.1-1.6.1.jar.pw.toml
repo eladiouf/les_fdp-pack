@@ -1,0 +1,8 @@
+name = "meetyourfight-1.20.1-1.6.1.jar"
+filename = "meetyourfight-1.20.1-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/361_meetyourfight-1.20.1-1.6.1.jar"
+hash-format = "sha256"
+hash = "1cabbd439890a6160da2059a5759c7438dd9b070e08487c27249b339212c05e4"

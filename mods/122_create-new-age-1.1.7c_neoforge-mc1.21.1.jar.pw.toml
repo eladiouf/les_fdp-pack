@@ -1,8 +1,0 @@
-name = "create-new-age-1.1.7c+neoforge-mc1.21.1.jar"
-filename = "create-new-age-1.1.7c+neoforge-mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/122_create-new-age-1.1.7c_neoforge-mc1.21.1.jar"
-hash-format = "sha256"
-hash = "ed25425e13bd21c9fb88a4644210e5dab1f8257ccf2158330db0dd068edb9034"

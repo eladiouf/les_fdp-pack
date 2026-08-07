@@ -1,8 +1,0 @@
-name = "beautifulcampfires-neoforge-1.21.1-1.0.2.jar"
-filename = "beautifulcampfires-neoforge-1.21.1-1.0.2.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/090_beautifulcampfires-neoforge-1.21.1-1.0.2.jar"
-hash-format = "sha256"
-hash = "41bbf0855a61bf1ccb95c1192b67d354ef6770f2381ea9b558d87990361036af"

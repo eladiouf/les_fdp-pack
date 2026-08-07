@@ -1,0 +1,8 @@
+name = "oceansdelight-1.0.2-1.20.jar"
+filename = "oceansdelight-1.0.2-1.20.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/379_oceansdelight-1.0.2-1.20.jar"
+hash-format = "sha256"
+hash = "ea6ae6bd1459046b7d7fd2c515a80b6966ff2c629bdf22d6298f0a73432b932d"

@@ -1,0 +1,8 @@
+name = "trotting_wagons-1.0.4.jar"
+filename = "trotting_wagons-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/462_trotting_wagons-1.0.4.jar"
+hash-format = "sha256"
+hash = "0c5a99131a2ebe7a4bda783be38a5ca4059820a86a8a604a58f42882cd15b839"

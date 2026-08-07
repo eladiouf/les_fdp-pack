@@ -1,8 +1,0 @@
-name = "ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
-filename = "ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/037_ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
-hash-format = "sha256"
-hash = "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24"

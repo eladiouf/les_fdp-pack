@@ -1,8 +1,0 @@
-name = "create_jetpack-forge-5.1.2.jar"
-filename = "create_jetpack-forge-5.1.2.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/133_create_jetpack-forge-5.1.2.jar"
-hash-format = "sha256"
-hash = "9fe5a681ea841ce9dc02e7132cd360e1c3e75314905b4ef1493e7548265d0985"

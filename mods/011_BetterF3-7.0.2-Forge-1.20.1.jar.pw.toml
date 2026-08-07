@@ -1,0 +1,8 @@
+name = "BetterF3-7.0.2-Forge-1.20.1.jar"
+filename = "BetterF3-7.0.2-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/011_BetterF3-7.0.2-Forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0"

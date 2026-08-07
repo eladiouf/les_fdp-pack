@@ -1,0 +1,8 @@
+name = "DreamCasLib 1.0.1 - 1.20.1.jar"
+filename = "DreamCasLib 1.0.1 - 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/031_DreamCasLib_1.0.1_-_1.20.1.jar"
+hash-format = "sha256"
+hash = "ecc49a6493aaeb164eadacfbad030fa074137f4dc7d72dfa2527657a7e4a3b39"

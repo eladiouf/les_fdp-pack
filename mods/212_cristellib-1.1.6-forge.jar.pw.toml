@@ -1,0 +1,8 @@
+name = "cristellib-1.1.6-forge.jar"
+filename = "cristellib-1.1.6-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/212_cristellib-1.1.6-forge.jar"
+hash-format = "sha256"
+hash = "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f"

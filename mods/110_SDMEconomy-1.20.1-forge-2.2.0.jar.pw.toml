@@ -1,0 +1,8 @@
+name = "SDMEconomy-1.20.1-forge-2.2.0.jar"
+filename = "SDMEconomy-1.20.1-forge-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/110_SDMEconomy-1.20.1-forge-2.2.0.jar"
+hash-format = "sha256"
+hash = "9c3a1320fa6dcc864597eb133cbb5e175db9b9aad584b37316ceb07ff09c4b63"

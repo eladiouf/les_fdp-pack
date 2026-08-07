@@ -1,0 +1,8 @@
+name = "sky_whale_ship-1.20.1.jar"
+filename = "sky_whale_ship-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/421_sky_whale_ship-1.20.1.jar"
+hash-format = "sha256"
+hash = "8cf312214d33fce2206c60c4a73374d4a83a192896c6a87d779b724ff3f310ce"

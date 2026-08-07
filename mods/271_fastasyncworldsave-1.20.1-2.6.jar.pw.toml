@@ -1,0 +1,8 @@
+name = "fastasyncworldsave-1.20.1-2.6.jar"
+filename = "fastasyncworldsave-1.20.1-2.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/271_fastasyncworldsave-1.20.1-2.6.jar"
+hash-format = "sha256"
+hash = "31283f2d8ad9462cb9619cc1bd2e61afa24939b91dcf46c87d5495e3c61207f7"

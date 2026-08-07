@@ -1,0 +1,8 @@
+name = "projectvibrantjourneys-1.20.1-6.3.0.jar"
+filename = "projectvibrantjourneys-1.20.1-6.3.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/393_projectvibrantjourneys-1.20.1-6.3.0.jar"
+hash-format = "sha256"
+hash = "f081331036634e09a974b6026725dbfca22aceabe98f15a44ae3c02ffb026e99"

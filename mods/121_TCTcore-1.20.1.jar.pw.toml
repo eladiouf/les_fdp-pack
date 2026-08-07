@@ -1,0 +1,8 @@
+name = "TCTcore-1.20.1.jar"
+filename = "TCTcore-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/121_TCTcore-1.20.1.jar"
+hash-format = "sha256"
+hash = "03d0b937f1615a9b9b333e7d889ffd16da587e720e6dba930c855bc0a99c413e"

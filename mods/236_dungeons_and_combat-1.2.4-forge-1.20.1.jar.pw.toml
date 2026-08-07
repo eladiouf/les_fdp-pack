@@ -1,0 +1,8 @@
+name = "dungeons_and_combat-1.2.4-forge-1.20.1.jar"
+filename = "dungeons_and_combat-1.2.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/236_dungeons_and_combat-1.2.4-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "8c01a97da60dbbc9772147f14f0992e9da8d46868b715dbd95477a505229b255"

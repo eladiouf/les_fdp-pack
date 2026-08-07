@@ -1,0 +1,8 @@
+name = "moogs_structures-1.20-1.20.4-3.0.2-forge.jar"
+filename = "moogs_structures-1.20-1.20.4-3.0.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/369_moogs_structures-1.20-1.20.4-3.0.2-forge.jar"
+hash-format = "sha256"
+hash = "a06c6a15a38d37a5ddb5f325ec6487ed223575f1080e3106b902168ae1130f00"

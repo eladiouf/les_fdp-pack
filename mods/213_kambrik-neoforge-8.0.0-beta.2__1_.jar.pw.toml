@@ -1,8 +1,0 @@
-name = "kambrik-neoforge-8.0.0-beta.2 (1).jar"
-filename = "kambrik-neoforge-8.0.0-beta.2 (1).jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/213_kambrik-neoforge-8.0.0-beta.2__1_.jar"
-hash-format = "sha256"
-hash = "a9b14170f2eeb323261c14bf40137ae78920ce2d61d52c85cdccc45bd9f37c2c"

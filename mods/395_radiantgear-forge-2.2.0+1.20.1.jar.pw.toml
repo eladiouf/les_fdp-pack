@@ -1,0 +1,8 @@
+name = "radiantgear-forge-2.2.0+1.20.1.jar"
+filename = "radiantgear-forge-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/395_radiantgear-forge-2.2.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "2a6c7e0825c69bd38dc1bb1ce8a8d6b097cac835e16e46afaa0f207fb819bb96"

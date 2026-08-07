@@ -1,0 +1,8 @@
+name = "saintsdragons-0.8.2+forge-1.20.1-alpha.jar"
+filename = "saintsdragons-0.8.2+forge-1.20.1-alpha.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/413_saintsdragons-0.8.2+forge-1.20.1-alpha.jar"
+hash-format = "sha256"
+hash = "6fdcdd6cd18eaba69604b50ef46d66c715ae18f69ce001b24da31e67a6a46d02"

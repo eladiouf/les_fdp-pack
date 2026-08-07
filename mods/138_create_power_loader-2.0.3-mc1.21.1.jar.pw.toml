@@ -1,8 +1,0 @@
-name = "create_power_loader-2.0.3-mc1.21.1.jar"
-filename = "create_power_loader-2.0.3-mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/138_create_power_loader-2.0.3-mc1.21.1.jar"
-hash-format = "sha256"
-hash = "31004286d41510b07e812912f8510696065f77be593098a163701d26d4ffe17d"

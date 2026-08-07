@@ -1,0 +1,8 @@
+name = "epic_fight_avalon-20.12.6.4.jar"
+filename = "epic_fight_avalon-20.12.6.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/257_epic_fight_avalon-20.12.6.4.jar"
+hash-format = "sha256"
+hash = "596462a617e203cc1ead934387477d95382ac84a2bcd0707cf927a794a5518ed"

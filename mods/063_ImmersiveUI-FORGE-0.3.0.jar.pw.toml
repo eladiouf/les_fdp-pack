@@ -1,0 +1,8 @@
+name = "ImmersiveUI-FORGE-0.3.0.jar"
+filename = "ImmersiveUI-FORGE-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/063_ImmersiveUI-FORGE-0.3.0.jar"
+hash-format = "sha256"
+hash = "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff"

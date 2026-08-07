@@ -1,8 +1,0 @@
-name = "create_bic_bit-1.0.2C.jar"
-filename = "create_bic_bit-1.0.2C.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/128_create_bic_bit-1.0.2C.jar"
-hash-format = "sha256"
-hash = "9e3846da4988b79e0c2284081f08e7b2afe9b8ba37e9b7187c54fd01ffd6e79b"

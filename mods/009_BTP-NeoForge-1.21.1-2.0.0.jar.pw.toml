@@ -1,8 +1,0 @@
-name = "BTP-NeoForge-1.21.1-2.0.0.jar"
-filename = "BTP-NeoForge-1.21.1-2.0.0.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/009_BTP-NeoForge-1.21.1-2.0.0.jar"
-hash-format = "sha256"
-hash = "d3f94f1edff958d5b943248c7b16d8881a6f4dea85386e2b8d49add795ff765e"

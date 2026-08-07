@@ -1,0 +1,8 @@
+name = "nanhealthfixer-1.20.1-0.0.1.jar"
+filename = "nanhealthfixer-1.20.1-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/372_nanhealthfixer-1.20.1-0.0.1.jar"
+hash-format = "sha256"
+hash = "d03619bda583c0d52848d9225b781d022d406cecf02da2d5703bead81803fe1f"

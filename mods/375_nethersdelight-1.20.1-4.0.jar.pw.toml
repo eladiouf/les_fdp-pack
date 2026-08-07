@@ -1,0 +1,8 @@
+name = "nethersdelight-1.20.1-4.0.jar"
+filename = "nethersdelight-1.20.1-4.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/375_nethersdelight-1.20.1-4.0.jar"
+hash-format = "sha256"
+hash = "28b072bc5c09ee889468546676c9bf0268eaa415865704bbeeb33f6a37005a30"

@@ -1,8 +1,0 @@
-name = "pipesnphysics-3.0.1.jar"
-filename = "pipesnphysics-3.0.1.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/318_pipesnphysics-3.0.1.jar"
-hash-format = "sha256"
-hash = "90da199d750bc8395e32eb870d129a74939a5bdc532b5d8e7451c17bff7ba2aa"

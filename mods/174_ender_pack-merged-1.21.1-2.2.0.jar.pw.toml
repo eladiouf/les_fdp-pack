@@ -1,8 +1,0 @@
-name = "ender_pack-merged-1.21.1-2.2.0.jar"
-filename = "ender_pack-merged-1.21.1-2.2.0.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/174_ender_pack-merged-1.21.1-2.2.0.jar"
-hash-format = "sha256"
-hash = "fb10e8ea0a972486a3f76d6e684441f2cc1ff0fd746200b90cb86505d2f1e756"

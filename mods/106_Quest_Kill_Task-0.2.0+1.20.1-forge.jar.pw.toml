@@ -1,0 +1,8 @@
+name = "Quest Kill Task-0.2.0+1.20.1-forge.jar"
+filename = "Quest Kill Task-0.2.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/106_Quest_Kill_Task-0.2.0+1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "a8e38b9655e9ae44895de3a58615bb42cf210655cd149f293b1a36df9b863556"

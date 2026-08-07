@@ -1,0 +1,8 @@
+name = "epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar"
+filename = "epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/256_epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "0017db1a54bca5ac90ac7e4010e3a59a93ab287ad2a6b68b6781dd5beabf31ed"

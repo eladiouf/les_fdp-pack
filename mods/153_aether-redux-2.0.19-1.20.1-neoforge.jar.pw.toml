@@ -1,0 +1,8 @@
+name = "aether-redux-2.0.19-1.20.1-neoforge.jar"
+filename = "aether-redux-2.0.19-1.20.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/153_aether-redux-2.0.19-1.20.1-neoforge.jar"
+hash-format = "sha256"
+hash = "cd5103e67618d3876be3afe08e6ef101ddbffe9d4ec6e4df5f6c5987fd48d59e"

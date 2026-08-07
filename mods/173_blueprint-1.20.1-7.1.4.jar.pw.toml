@@ -1,0 +1,8 @@
+name = "blueprint-1.20.1-7.1.4.jar"
+filename = "blueprint-1.20.1-7.1.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/173_blueprint-1.20.1-7.1.4.jar"
+hash-format = "sha256"
+hash = "41152bfac14637edbf3dd868e92c19a48c6c0a25513a2ecdada2366593c883c0"

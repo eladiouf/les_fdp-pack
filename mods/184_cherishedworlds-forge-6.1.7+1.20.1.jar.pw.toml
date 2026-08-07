@@ -1,0 +1,8 @@
+name = "cherishedworlds-forge-6.1.7+1.20.1.jar"
+filename = "cherishedworlds-forge-6.1.7+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/184_cherishedworlds-forge-6.1.7+1.20.1.jar"
+hash-format = "sha256"
+hash = "d9717f9a57562784b704764c2b040f14db68f12ef3fa17f66e4a02346f37dddd"

@@ -1,0 +1,8 @@
+name = "Luminous Beasts V1.2.7 - Forge 1.20.1.jar"
+filename = "Luminous Beasts V1.2.7 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/071_Luminous_Beasts_V1.2.7_-_Forge_1.20.1.jar"
+hash-format = "sha256"
+hash = "dd27bea022dab3aca47011819e17e6252315c1c8b1c5bb5d969481f0470d34b3"

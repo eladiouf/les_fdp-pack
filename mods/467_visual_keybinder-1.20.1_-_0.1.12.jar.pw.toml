@@ -1,0 +1,8 @@
+name = "visual_keybinder-1.20.1 - 0.1.12.jar"
+filename = "visual_keybinder-1.20.1 - 0.1.12.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/467_visual_keybinder-1.20.1_-_0.1.12.jar"
+hash-format = "sha256"
+hash = "9dadb23df8b1b232499565bc486220af6f81f62d2bfe6fe6e9deeb9502df0847"

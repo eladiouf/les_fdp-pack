@@ -1,0 +1,8 @@
+name = "leaderboards-1.20.1-Forge-2.0.4.jar"
+filename = "leaderboards-1.20.1-Forge-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/338_leaderboards-1.20.1-Forge-2.0.4.jar"
+hash-format = "sha256"
+hash = "d795729081834442ca6304aa4b2cf4b49983b4da84f6a6e8931ef79adcad3137"

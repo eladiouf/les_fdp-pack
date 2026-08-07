@@ -1,0 +1,8 @@
+name = "letmedespawn-1.20.x-forge-1.5.0.jar"
+filename = "letmedespawn-1.20.x-forge-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/340_letmedespawn-1.20.x-forge-1.5.0.jar"
+hash-format = "sha256"
+hash = "c6be3d9a62234d96d302369ac0a0ee238bdc0cf1b7f7280532d4365e9fabc09e"

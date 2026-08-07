@@ -1,8 +1,0 @@
-name = "chefsdelight-1.0.5-neoforge-1.21.1.jar"
-filename = "chefsdelight-1.0.5-neoforge-1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/103_chefsdelight-1.0.5-neoforge-1.21.1.jar"
-hash-format = "sha256"
-hash = "9fd7920a4cced00443c107c1ac05002b35543734c76e05ef1d1ebf5f17ce99c8"

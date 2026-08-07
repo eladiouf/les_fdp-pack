@@ -1,0 +1,8 @@
+name = "AetherVillages-1.20.1-1.0.7-forge.jar"
+filename = "AetherVillages-1.20.1-1.0.7-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/002_AetherVillages-1.20.1-1.0.7-forge.jar"
+hash-format = "sha256"
+hash = "9fb12bd7cc5326ac9381ca96fe4efa5afddf4d15e4f37538ebe6f689639ee59b"

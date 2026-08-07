@@ -1,0 +1,8 @@
+name = "reliable_remover-forge-1.20.1-2.4.7.jar"
+filename = "reliable_remover-forge-1.20.1-2.4.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/404_reliable_remover-forge-1.20.1-2.4.7.jar"
+hash-format = "sha256"
+hash = "60d8aed1d976cdff8abcc3d2031f0757d57a6d030cbf1a6b4d3e4f2d22f4d224"

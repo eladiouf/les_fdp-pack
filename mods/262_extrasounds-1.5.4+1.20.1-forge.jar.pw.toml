@@ -1,0 +1,8 @@
+name = "extrasounds-1.5.4+1.20.1-forge.jar"
+filename = "extrasounds-1.5.4+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/262_extrasounds-1.5.4+1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "931656ac7a6d95e2b9289e20f08c9d862b530705eaa523b7ca4c2c802b7ac15f"

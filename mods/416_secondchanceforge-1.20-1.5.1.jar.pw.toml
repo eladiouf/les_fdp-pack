@@ -1,0 +1,8 @@
+name = "secondchanceforge-1.20-1.5.1.jar"
+filename = "secondchanceforge-1.20-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/416_secondchanceforge-1.20-1.5.1.jar"
+hash-format = "sha256"
+hash = "5f14e3e800955d977041877e78d7a98e033a8f8a8b2c8d6579ebf36b670d7434"

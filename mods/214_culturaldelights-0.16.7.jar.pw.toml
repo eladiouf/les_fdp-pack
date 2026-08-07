@@ -1,0 +1,8 @@
+name = "culturaldelights-0.16.7.jar"
+filename = "culturaldelights-0.16.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/214_culturaldelights-0.16.7.jar"
+hash-format = "sha256"
+hash = "b4c587bf5ce53ff6381b7e36b653fab91380b3eb3bcf7bec9c295755433362a3"

@@ -1,0 +1,8 @@
+name = "RegionsUnexploredForge-0.5.6+1.20.1.jar"
+filename = "RegionsUnexploredForge-0.5.6+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/107_RegionsUnexploredForge-0.5.6+1.20.1.jar"
+hash-format = "sha256"
+hash = "5ba96a83d12c0e2eb3b22c0fa11262ff6d49ba8d2ebd03e1c59ab47ea7dcc2c6"

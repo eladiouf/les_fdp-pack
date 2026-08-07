@@ -1,0 +1,8 @@
+name = "betterfpsdist-1.20.1-6.0.jar"
+filename = "betterfpsdist-1.20.1-6.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/168_betterfpsdist-1.20.1-6.0.jar"
+hash-format = "sha256"
+hash = "0fa8855bcdc67962f109a096381107f58917faa64c61dd99b32ae0e738aae4f7"

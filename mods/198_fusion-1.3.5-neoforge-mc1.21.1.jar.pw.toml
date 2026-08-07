@@ -1,8 +1,0 @@
-name = "fusion-1.3.5-neoforge-mc1.21.1.jar"
-filename = "fusion-1.3.5-neoforge-mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/198_fusion-1.3.5-neoforge-mc1.21.1.jar"
-hash-format = "sha256"
-hash = "848b618be23ad4d02686285d640de6ac44e5b22ebcf25bcc2957fb7530ddccef"

@@ -1,0 +1,8 @@
+name = "simplemenu-1.20.1-2.0.jar"
+filename = "simplemenu-1.20.1-2.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/420_simplemenu-1.20.1-2.0.jar"
+hash-format = "sha256"
+hash = "b41e8066f906b06c18d68b10796e49f481fad91a6f12df1ed59163fb6fdbf02f"

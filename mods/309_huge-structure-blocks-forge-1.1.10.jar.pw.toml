@@ -1,0 +1,8 @@
+name = "huge-structure-blocks-forge-1.1.10.jar"
+filename = "huge-structure-blocks-forge-1.1.10.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/309_huge-structure-blocks-forge-1.1.10.jar"
+hash-format = "sha256"
+hash = "e1ee5265fe4ed605e7613a455ee71e5c0bd1bb70ac40fba60040423458e38763"

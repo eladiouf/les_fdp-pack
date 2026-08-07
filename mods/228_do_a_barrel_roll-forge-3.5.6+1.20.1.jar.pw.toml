@@ -1,0 +1,8 @@
+name = "do_a_barrel_roll-forge-3.5.6+1.20.1.jar"
+filename = "do_a_barrel_roll-forge-3.5.6+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/228_do_a_barrel_roll-forge-3.5.6+1.20.1.jar"
+hash-format = "sha256"
+hash = "71ffc54d3f1fbe9497cf7b398c79a2724c60f7b06809941e9ded0888587347af"

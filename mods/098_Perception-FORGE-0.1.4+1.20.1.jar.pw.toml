@@ -1,0 +1,8 @@
+name = "Perception-FORGE-0.1.4+1.20.1.jar"
+filename = "Perception-FORGE-0.1.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/098_Perception-FORGE-0.1.4+1.20.1.jar"
+hash-format = "sha256"
+hash = "f906486a347e0d151406969a66e8e402571c39305bde341cd8d1cac68ad227be"

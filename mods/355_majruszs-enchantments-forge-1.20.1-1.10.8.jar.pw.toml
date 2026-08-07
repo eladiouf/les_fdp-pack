@@ -1,0 +1,8 @@
+name = "majruszs-enchantments-forge-1.20.1-1.10.8.jar"
+filename = "majruszs-enchantments-forge-1.20.1-1.10.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/355_majruszs-enchantments-forge-1.20.1-1.10.8.jar"
+hash-format = "sha256"
+hash = "72bee9ecc0e23c40b59b3ee29b620765386ac7a43cb730182850cad261c9367e"

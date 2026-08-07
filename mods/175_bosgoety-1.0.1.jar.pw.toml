@@ -1,0 +1,8 @@
+name = "bosgoety-1.0.1.jar"
+filename = "bosgoety-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/175_bosgoety-1.0.1.jar"
+hash-format = "sha256"
+hash = "4756a49a604e7024812df5f2ae106b4d662870f210daeabbd2df5cc7fa802f53"

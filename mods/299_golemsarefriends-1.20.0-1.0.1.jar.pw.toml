@@ -1,0 +1,8 @@
+name = "golemsarefriends-1.20.0-1.0.1.jar"
+filename = "golemsarefriends-1.20.0-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/299_golemsarefriends-1.20.0-1.0.1.jar"
+hash-format = "sha256"
+hash = "0ac23af0922f35b25cea6ed2086a60ce9df178ec14e555149e6ce5abdf373a37"

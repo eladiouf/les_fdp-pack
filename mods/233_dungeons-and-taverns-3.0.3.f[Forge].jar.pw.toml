@@ -1,0 +1,8 @@
+name = "dungeons-and-taverns-3.0.3.f[Forge].jar"
+filename = "dungeons-and-taverns-3.0.3.f[Forge].jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/233_dungeons-and-taverns-3.0.3.f[Forge].jar"
+hash-format = "sha256"
+hash = "251b531ff2882c61a4c2eba3bd7b1683aa22b6c2d459e27bfde04a2948c99e1e"

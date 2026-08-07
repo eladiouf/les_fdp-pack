@@ -1,0 +1,8 @@
+name = "minecells-1.9.2.jar"
+filename = "minecells-1.9.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/364_minecells-1.9.2.jar"
+hash-format = "sha256"
+hash = "764f5789c810807626b90fc0fbb48d5373f399bb45256b8b2ea9cd43af7846b5"

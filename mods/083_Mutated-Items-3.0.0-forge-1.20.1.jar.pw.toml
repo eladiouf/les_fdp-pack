@@ -1,0 +1,8 @@
+name = "Mutated-Items-3.0.0-forge-1.20.1.jar"
+filename = "Mutated-Items-3.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/083_Mutated-Items-3.0.0-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "c69b2d605ecb2aa6db32ae4a532d34cbf4761bc5357bf633f91c706e4a0a146f"

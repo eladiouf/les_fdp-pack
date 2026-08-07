@@ -1,0 +1,8 @@
+name = "Ping-Wheel-1.12.1-forge-1.20.1.jar"
+filename = "Ping-Wheel-1.12.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/100_Ping-Wheel-1.12.1-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "71692ad5d2b410ebcfbe3bb6bdf151c40ea75d012c75aff3c6c1a37abf9e8057"

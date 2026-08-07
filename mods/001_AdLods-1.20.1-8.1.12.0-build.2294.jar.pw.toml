@@ -1,0 +1,8 @@
+name = "AdLods-1.20.1-8.1.12.0-build.2294.jar"
+filename = "AdLods-1.20.1-8.1.12.0-build.2294.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/001_AdLods-1.20.1-8.1.12.0-build.2294.jar"
+hash-format = "sha256"
+hash = "7d488a5b6a70d9984ef5c69700bc07b440a1d70b3b7d215c24b17d243cf3cbd4"

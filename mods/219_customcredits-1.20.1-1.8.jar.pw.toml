@@ -1,0 +1,8 @@
+name = "customcredits-1.20.1-1.8.jar"
+filename = "customcredits-1.20.1-1.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/219_customcredits-1.20.1-1.8.jar"
+hash-format = "sha256"
+hash = "f4fb7d58d1c049dc759a66ccda13bf45a681162fe9afe38c112b7c2dacc92ccd"

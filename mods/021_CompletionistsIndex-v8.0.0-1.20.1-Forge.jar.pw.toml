@@ -1,0 +1,8 @@
+name = "CompletionistsIndex-v8.0.0-1.20.1-Forge.jar"
+filename = "CompletionistsIndex-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/021_CompletionistsIndex-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "2dbce616a4646435d0b643a371a3b763e4783450d130045816e6f92cebaadf45"

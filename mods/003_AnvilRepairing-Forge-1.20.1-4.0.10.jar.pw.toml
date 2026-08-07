@@ -1,0 +1,8 @@
+name = "AnvilRepairing-Forge-1.20.1-4.0.10.jar"
+filename = "AnvilRepairing-Forge-1.20.1-4.0.10.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/003_AnvilRepairing-Forge-1.20.1-4.0.10.jar"
+hash-format = "sha256"
+hash = "27d53b8f5572d74ae28395b21694e47284cb1c3aa286b1ce8c34002aba4be6d9"

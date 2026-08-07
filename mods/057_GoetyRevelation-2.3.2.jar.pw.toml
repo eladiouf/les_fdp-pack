@@ -1,0 +1,8 @@
+name = "GoetyRevelation-2.3.2.jar"
+filename = "GoetyRevelation-2.3.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/057_GoetyRevelation-2.3.2.jar"
+hash-format = "sha256"
+hash = "0606d742cf6d7f2dd9d94abd26ee7195d4e0dd52b0452772142d55236b909869"

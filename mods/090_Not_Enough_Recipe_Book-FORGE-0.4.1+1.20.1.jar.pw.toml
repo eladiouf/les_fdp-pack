@@ -1,0 +1,8 @@
+name = "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar"
+filename = "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/090_Not_Enough_Recipe_Book-FORGE-0.4.1+1.20.1.jar"
+hash-format = "sha256"
+hash = "8f05afb56310b21e91d2f1d1200a9c0d98a34a9689b9b6288a6507c0498b299d"

@@ -1,0 +1,8 @@
+name = "xaeros_waystones_compatibility-1.1 - 1.20.1.jar"
+filename = "xaeros_waystones_compatibility-1.1 - 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/476_xaeros_waystones_compatibility-1.1_-_1.20.1.jar"
+hash-format = "sha256"
+hash = "d330d9cb7592035cf580a75621b1113c0fc50dd1ad7e1b5b071155930394f3da"

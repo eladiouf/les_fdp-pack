@@ -1,8 +1,0 @@
-name = "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar"
-filename = "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/022_CreateNumismatics-1.0.20_neoforge-mc1.21.1.jar"
-hash-format = "sha256"
-hash = "1375ba1b50e53fd09435029b5b2d5b94779ba397cca7e01180d07b0f624e5b9b"

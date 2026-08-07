@@ -1,8 +1,0 @@
-name = "aeroworks-1.2.10.jar"
-filename = "aeroworks-1.2.10.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/075_aeroworks-1.2.10.jar"
-hash-format = "sha256"
-hash = "48ddad7353f426e8fe0bafb44cbfd9435511b899b3be3942decfb340d2af88d6"

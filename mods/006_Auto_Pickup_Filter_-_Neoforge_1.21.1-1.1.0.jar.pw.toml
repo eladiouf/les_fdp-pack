@@ -1,8 +1,0 @@
-name = "Auto Pickup Filter - Neoforge 1.21.1-1.1.0.jar"
-filename = "Auto Pickup Filter - Neoforge 1.21.1-1.1.0.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/006_Auto_Pickup_Filter_-_Neoforge_1.21.1-1.1.0.jar"
-hash-format = "sha256"
-hash = "3279b7da68ece105fd289dfeab90a1896924e2d0995538e8c9305a76f6a671f3"

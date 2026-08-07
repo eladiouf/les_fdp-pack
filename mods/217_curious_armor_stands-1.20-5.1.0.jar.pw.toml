@@ -1,0 +1,8 @@
+name = "curious_armor_stands-1.20-5.1.0.jar"
+filename = "curious_armor_stands-1.20-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/217_curious_armor_stands-1.20-5.1.0.jar"
+hash-format = "sha256"
+hash = "11cbe8d6e888ee085dad2f59d87373f3588f5fbcb7f25f879f361128694f1ed6"

@@ -1,0 +1,8 @@
+name = "goety_spillage-1.20-1.4.8.jar"
+filename = "goety_spillage-1.20-1.4.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/294_goety_spillage-1.20-1.4.8.jar"
+hash-format = "sha256"
+hash = "7e085f4549c148c9b32ccce24ee8706ef1a6c5147473ae4e5b53eee741719e03"

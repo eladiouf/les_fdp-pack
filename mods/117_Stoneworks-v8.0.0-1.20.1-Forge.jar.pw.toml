@@ -1,0 +1,8 @@
+name = "Stoneworks-v8.0.0-1.20.1-Forge.jar"
+filename = "Stoneworks-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/117_Stoneworks-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "8ff200d70cedec7c94bfadd911e02e19589d59cf84289ca6fee9b32db71e1d24"

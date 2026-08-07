@@ -1,0 +1,8 @@
+name = "dungeons_revival-1.0.5.1-forge-1.20.1.jar"
+filename = "dungeons_revival-1.0.5.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/239_dungeons_revival-1.0.5.1-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "89836de8d7a03a029690a4607aadb3fbfce090c62702647d7297ad03dc81e274"

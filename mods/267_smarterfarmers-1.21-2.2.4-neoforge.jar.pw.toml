@@ -1,8 +1,0 @@
-name = "smarterfarmers-1.21-2.2.4-neoforge.jar"
-filename = "smarterfarmers-1.21-2.2.4-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/267_smarterfarmers-1.21-2.2.4-neoforge.jar"
-hash-format = "sha256"
-hash = "96cd9c5cb6e358798de09c5de13a1201a01da680cad8ec5a0d5a309106293d13"

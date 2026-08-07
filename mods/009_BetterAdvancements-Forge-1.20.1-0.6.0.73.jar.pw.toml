@@ -1,0 +1,8 @@
+name = "BetterAdvancements-Forge-1.20.1-0.6.0.73.jar"
+filename = "BetterAdvancements-Forge-1.20.1-0.6.0.73.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/009_BetterAdvancements-Forge-1.20.1-0.6.0.73.jar"
+hash-format = "sha256"
+hash = "21bb5d5541f740851d0f7cc5116708a58335acf5e76eb41209568523ff152a56"

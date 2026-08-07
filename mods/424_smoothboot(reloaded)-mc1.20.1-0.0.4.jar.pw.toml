@@ -1,0 +1,8 @@
+name = "smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
+filename = "smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/424_smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
+hash-format = "sha256"
+hash = "5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5"

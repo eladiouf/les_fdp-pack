@@ -1,0 +1,8 @@
+name = "illager_additions-1.20.1-0.1.0-beta.jar"
+filename = "illager_additions-1.20.1-0.1.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/315_illager_additions-1.20.1-0.1.0-beta.jar"
+hash-format = "sha256"
+hash = "3f39a4713958a5e588102899041df94c9090be61b78e3d5a558c99ece469f393"

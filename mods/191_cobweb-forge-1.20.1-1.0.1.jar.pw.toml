@@ -1,0 +1,8 @@
+name = "cobweb-forge-1.20.1-1.0.1.jar"
+filename = "cobweb-forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/191_cobweb-forge-1.20.1-1.0.1.jar"
+hash-format = "sha256"
+hash = "93771b365320a08d0516633afb210f36f5aa20c0906dc4f1ead394250f660736"

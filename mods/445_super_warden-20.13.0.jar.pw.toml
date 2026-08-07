@@ -1,0 +1,8 @@
+name = "super_warden-20.13.0.jar"
+filename = "super_warden-20.13.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/445_super_warden-20.13.0.jar"
+hash-format = "sha256"
+hash = "d6a5ca943ce726e5260132622c5c865fceb0c68b25b9ab1f01b130ffae1990b9"

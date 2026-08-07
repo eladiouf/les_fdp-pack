@@ -1,0 +1,8 @@
+name = "ItemPhysicLite_FORGE_v1.6.11_mc1.20.1.jar"
+filename = "ItemPhysicLite_FORGE_v1.6.11_mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/065_ItemPhysicLite_FORGE_v1.6.11_mc1.20.1.jar"
+hash-format = "sha256"
+hash = "fd39d34464fe29091ef6497285491506b7113b2185ed97a2f03b1e09993c4478"

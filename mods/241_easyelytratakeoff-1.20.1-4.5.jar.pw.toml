@@ -1,0 +1,8 @@
+name = "easyelytratakeoff-1.20.1-4.5.jar"
+filename = "easyelytratakeoff-1.20.1-4.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/241_easyelytratakeoff-1.20.1-4.5.jar"
+hash-format = "sha256"
+hash = "c282e14624cf80284779350120db58ef7695c9891ebe6842ca5dee32774562b6"

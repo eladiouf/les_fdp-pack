@@ -1,8 +1,0 @@
-name = "golden_foods-merged-1.21.1-2.4.0.jar"
-filename = "golden_foods-merged-1.21.1-2.4.0.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/202_golden_foods-merged-1.21.1-2.4.0.jar"
-hash-format = "sha256"
-hash = "f6ed34defe61db3c0cc12962e6fad5ca18e1ab090f4b2e174dc5dbf6eff4dae8"

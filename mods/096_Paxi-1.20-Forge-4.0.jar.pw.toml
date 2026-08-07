@@ -1,0 +1,8 @@
+name = "Paxi-1.20-Forge-4.0.jar"
+filename = "Paxi-1.20-Forge-4.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/096_Paxi-1.20-Forge-4.0.jar"
+hash-format = "sha256"
+hash = "dd18dd9696d099137b170076676e8411e3d8385af15941f68472f21167266f1a"

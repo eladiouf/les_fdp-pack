@@ -1,0 +1,8 @@
+name = "chat_heads-0.15.4-forge-1.20.jar"
+filename = "chat_heads-0.15.4-forge-1.20.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/182_chat_heads-0.15.4-forge-1.20.jar"
+hash-format = "sha256"
+hash = "5f21c192351dd8ef54772f0e27d8cece99dba5935d6b756eedd3d9303a00f9b0"

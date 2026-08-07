@@ -1,0 +1,8 @@
+name = "epic-fight-20.14.17-mc1.20.1-forge.jar"
+filename = "epic-fight-20.14.17-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/255_epic-fight-20.14.17-mc1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "69566cf70ae2d91d3f2564c608f014c87e290cef6215c2a27719851165485f73"

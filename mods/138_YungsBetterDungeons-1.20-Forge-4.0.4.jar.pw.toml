@@ -1,0 +1,8 @@
+name = "YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+filename = "YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/138_YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+hash-format = "sha256"
+hash = "93c24e4075c51da0866f3fc92322bdb60e590ac2cd78dce275460839c54c36f5"

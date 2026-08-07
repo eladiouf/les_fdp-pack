@@ -1,0 +1,8 @@
+name = "redirected-forge-1.0.0-1.20.1.jar"
+filename = "redirected-forge-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/402_redirected-forge-1.0.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "f8968454baec53f196404fc8b01b79bd9749da35c031575babe091f2a7241e88"

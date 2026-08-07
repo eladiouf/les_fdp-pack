@@ -1,0 +1,8 @@
+name = "aeroblender-1.20.1-1.0.1-neoforge.jar"
+filename = "aeroblender-1.20.1-1.0.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/151_aeroblender-1.20.1-1.0.1-neoforge.jar"
+hash-format = "sha256"
+hash = "a47f09316c4eedd90776d8fbe59a2fbcf9c9995c9408975590a4996769b704d5"

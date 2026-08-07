@@ -1,8 +1,0 @@
-name = "create_pattern_schematics-2.0.10.jar"
-filename = "create_pattern_schematics-2.0.10.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/137_create_pattern_schematics-2.0.10.jar"
-hash-format = "sha256"
-hash = "d6525b9ab9914a194ca5aa00e6605f5977d8ac28722cdccce018da44f62bc5c5"

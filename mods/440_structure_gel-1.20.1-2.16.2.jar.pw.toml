@@ -1,0 +1,8 @@
+name = "structure_gel-1.20.1-2.16.2.jar"
+filename = "structure_gel-1.20.1-2.16.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/440_structure_gel-1.20.1-2.16.2.jar"
+hash-format = "sha256"
+hash = "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"

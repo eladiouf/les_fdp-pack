@@ -1,0 +1,8 @@
+name = "seramicx_smooth_f5-forge-1.20.1-1.1.1.jar"
+filename = "seramicx_smooth_f5-forge-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/417_seramicx_smooth_f5-forge-1.20.1-1.1.1.jar"
+hash-format = "sha256"
+hash = "e492340f08c476c647fa8b71c6bb26a91e6d1d650b227a1257c019bec0355c76"

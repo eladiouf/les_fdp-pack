@@ -1,0 +1,8 @@
+name = "xaeroworldmap-forge-1.20.1-1.44.2.jar"
+filename = "xaeroworldmap-forge-1.20.1-1.44.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/477_xaeroworldmap-forge-1.20.1-1.44.2.jar"
+hash-format = "sha256"
+hash = "cc20a74887923eecf5b614ffbf5a58e6c749d98a657003bde4a77d04212dee0d"

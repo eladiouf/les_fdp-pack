@@ -1,0 +1,8 @@
+name = "blur-forge-3.1.1.jar"
+filename = "blur-forge-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/174_blur-forge-3.1.1.jar"
+hash-format = "sha256"
+hash = "7ab7248ecfc0fa9cf2e6dd7530732263e580d7a794a6ba999366af345e7c8e71"

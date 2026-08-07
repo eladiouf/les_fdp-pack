@@ -1,0 +1,8 @@
+name = "glassbreaker-neoforge-1.4.0+1.20.jar"
+filename = "glassbreaker-neoforge-1.4.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/289_glassbreaker-neoforge-1.4.0+1.20.jar"
+hash-format = "sha256"
+hash = "471ba6b8518a27aaf7e96ab5813a9a44bb605e5abafe104df5e034dcf17fe3d0"

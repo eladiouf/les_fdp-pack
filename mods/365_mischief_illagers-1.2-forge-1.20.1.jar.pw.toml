@@ -1,0 +1,8 @@
+name = "mischief_illagers-1.2-forge-1.20.1.jar"
+filename = "mischief_illagers-1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/365_mischief_illagers-1.2-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "b6edc0ee566a4d2349beb0797655ba784a1af38187eaabf19ae07d8656e8bb15"

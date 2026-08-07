@@ -1,8 +1,0 @@
-name = "FarmersStructures-1.0.6-1.21.1_neoforge.jar"
-filename = "FarmersStructures-1.0.6-1.21.1_neoforge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/040_FarmersStructures-1.0.6-1.21.1_neoforge.jar"
-hash-format = "sha256"
-hash = "6f6203b2bc94c99bb8e43b690e6801a679b53b8a2143bda17be56d51aa60cbce"

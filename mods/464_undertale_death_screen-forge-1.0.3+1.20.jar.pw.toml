@@ -1,0 +1,8 @@
+name = "undertale_death_screen-forge-1.0.3+1.20.jar"
+filename = "undertale_death_screen-forge-1.0.3+1.20.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/464_undertale_death_screen-forge-1.0.3+1.20.jar"
+hash-format = "sha256"
+hash = "d9736d4b994a0f2a773fd72993239a0084e172a9ffa467bb063a5945335ed0b6"

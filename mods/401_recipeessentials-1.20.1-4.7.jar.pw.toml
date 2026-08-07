@@ -1,0 +1,8 @@
+name = "recipeessentials-1.20.1-4.7.jar"
+filename = "recipeessentials-1.20.1-4.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/401_recipeessentials-1.20.1-4.7.jar"
+hash-format = "sha256"
+hash = "1af8b5eba311c2913643a3ca4e79f643c317e948d6ddfc16e31fec86ec679b80"

@@ -1,0 +1,8 @@
+name = "structure_pool_api-1.0+1.20.1.jar"
+filename = "structure_pool_api-1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/441_structure_pool_api-1.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "84ebe8b98268c8fe1439bb6cd3dbeba19501bf9e25ea2f2fd49dfe3940aa1a78"

@@ -1,0 +1,8 @@
+name = "Toms-Performant-Storage-forge-0.1.0+1.20.1.jar"
+filename = "Toms-Performant-Storage-forge-0.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/125_Toms-Performant-Storage-forge-0.1.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "c02601250a14a143bf56bf7b73cfaa71314f5eda05d66300fa90a69927f294f1"

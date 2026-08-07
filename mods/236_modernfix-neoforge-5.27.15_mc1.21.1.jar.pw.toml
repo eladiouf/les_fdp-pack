@@ -1,8 +1,0 @@
-name = "modernfix-neoforge-5.27.15+mc1.21.1.jar"
-filename = "modernfix-neoforge-5.27.15+mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/236_modernfix-neoforge-5.27.15_mc1.21.1.jar"
-hash-format = "sha256"
-hash = "60bad0cb2436b8f5dd277d752e83f05b244477da85ba01456b2bfe01f1ede850"

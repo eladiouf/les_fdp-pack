@@ -1,8 +1,0 @@
-name = "ftb-chunks-neoforge-2101.1.20.jar"
-filename = "ftb-chunks-neoforge-2101.1.20.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/192_ftb-chunks-neoforge-2101.1.20.jar"
-hash-format = "sha256"
-hash = "3bcd6f0032cec7310dc90b02b5a00e4cf1dd7a507f758bb353de864cb5e9241e"

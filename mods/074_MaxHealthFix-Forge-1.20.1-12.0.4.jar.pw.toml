@@ -1,0 +1,8 @@
+name = "MaxHealthFix-Forge-1.20.1-12.0.4.jar"
+filename = "MaxHealthFix-Forge-1.20.1-12.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/074_MaxHealthFix-Forge-1.20.1-12.0.4.jar"
+hash-format = "sha256"
+hash = "8f069f68323db45e27cb0bb6807006398ca46618c1c21f89957a4814441ebb85"

@@ -1,0 +1,8 @@
+name = "fancymenu_forge_3.8.1_MC_1.20.1.jar"
+filename = "fancymenu_forge_3.8.1_MC_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/264_fancymenu_forge_3.8.1_MC_1.20.1.jar"
+hash-format = "sha256"
+hash = "ba1ddf0f61def8ea87e7757ebb45f1390e1da0f7ebce1aff299b0a169b045858"

@@ -1,8 +1,0 @@
-name = "medieval_buildings_nether_edition-1.21.1-1.0.2-neoforge.jar"
-filename = "medieval_buildings_nether_edition-1.21.1-1.0.2-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/234_medieval_buildings_nether_edition-1.21.1-1.0.2-neoforge.jar"
-hash-format = "sha256"
-hash = "6aae01f723d6e0fc0b233ee038d7ca1ee983b1d609306c05f128e3642581cd91"

@@ -1,8 +1,0 @@
-name = "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
-filename = "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/281_supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
-hash-format = "sha256"
-hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"

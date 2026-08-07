@@ -1,0 +1,8 @@
+name = "puffish_attributes-0.8.2-1.20-forge.jar"
+filename = "puffish_attributes-0.8.2-1.20-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/394_puffish_attributes-0.8.2-1.20-forge.jar"
+hash-format = "sha256"
+hash = "6a7b6dad32da481891cde235ea8abd343733ccc5545b145de7bfa0670ae31d10"

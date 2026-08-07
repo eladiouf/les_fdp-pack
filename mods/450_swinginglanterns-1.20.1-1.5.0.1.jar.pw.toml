@@ -1,0 +1,8 @@
+name = "swinginglanterns-1.20.1-1.5.0.1.jar"
+filename = "swinginglanterns-1.20.1-1.5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/450_swinginglanterns-1.20.1-1.5.0.1.jar"
+hash-format = "sha256"
+hash = "7a8aec226b2a5126813c23c1d056a8afe280b241a43d2652c6bba8fa7883caa7"

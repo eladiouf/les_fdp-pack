@@ -1,8 +1,0 @@
-name = "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar"
-filename = "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar"
-side = "client"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/049_ImmediatelyFast-NeoForge-1.6.11_1.21.1.jar"
-hash-format = "sha256"
-hash = "336df12f099d1a441a3e06850bea86e9c2d0c8bc022d3d9a201870a201562a04"

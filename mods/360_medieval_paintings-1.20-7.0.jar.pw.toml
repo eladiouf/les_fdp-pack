@@ -1,0 +1,8 @@
+name = "medieval_paintings-1.20-7.0.jar"
+filename = "medieval_paintings-1.20-7.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/360_medieval_paintings-1.20-7.0.jar"
+hash-format = "sha256"
+hash = "b855f886a9e9a1c101d80f47b34f212ad0d0ef7764d549dd3544bd46de6c1e7e"

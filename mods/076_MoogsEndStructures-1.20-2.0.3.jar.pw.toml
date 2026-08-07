@@ -1,0 +1,8 @@
+name = "MoogsEndStructures-1.20-2.0.3.jar"
+filename = "MoogsEndStructures-1.20-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/076_MoogsEndStructures-1.20-2.0.3.jar"
+hash-format = "sha256"
+hash = "9142bde3f2e42e609af29d26626c9904ef21586de00e55d989faba1a6d42cc1b"

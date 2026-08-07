@@ -1,0 +1,8 @@
+name = "Ash Of Sin-Soul Like Boss Battle-1.20.1-1.0.8.jar"
+filename = "Ash Of Sin-Soul Like Boss Battle-1.20.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/006_Ash_Of_Sin-Soul_Like_Boss_Battle-1.20.1-1.0.8.jar"
+hash-format = "sha256"
+hash = "2b8a2ae2819eaab7bd6e0a1342b6cc107456acb49ac10d7ef84049f77b90f980"

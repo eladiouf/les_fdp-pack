@@ -1,8 +1,0 @@
-name = "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
-filename = "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/259_ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
-hash-format = "sha256"
-hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"

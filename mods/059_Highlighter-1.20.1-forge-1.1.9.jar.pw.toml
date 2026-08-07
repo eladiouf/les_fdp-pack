@@ -1,0 +1,8 @@
+name = "Highlighter-1.20.1-forge-1.1.9.jar"
+filename = "Highlighter-1.20.1-forge-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/059_Highlighter-1.20.1-forge-1.1.9.jar"
+hash-format = "sha256"
+hash = "8389c409257541c06789cd2287725d3df173168d9a0ebb9ff44c9b319e8b8026"

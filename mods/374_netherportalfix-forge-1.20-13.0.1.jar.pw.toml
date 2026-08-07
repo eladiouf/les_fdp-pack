@@ -1,0 +1,8 @@
+name = "netherportalfix-forge-1.20-13.0.1.jar"
+filename = "netherportalfix-forge-1.20-13.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/374_netherportalfix-forge-1.20-13.0.1.jar"
+hash-format = "sha256"
+hash = "06f1354664aee53d4c32c83f76ed94bb72426a75b7e0eb8e415abfba3634cf4e"

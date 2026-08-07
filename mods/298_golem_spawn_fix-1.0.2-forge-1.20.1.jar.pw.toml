@@ -1,0 +1,8 @@
+name = "golem_spawn_fix-1.0.2-forge-1.20.1.jar"
+filename = "golem_spawn_fix-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/298_golem_spawn_fix-1.0.2-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "851f85f6d617204503bd6f9b8071ad54f12c7e4f3fb94f729ef057fc34fd10c9"

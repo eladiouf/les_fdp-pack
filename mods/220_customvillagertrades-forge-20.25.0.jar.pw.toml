@@ -1,0 +1,8 @@
+name = "customvillagertrades-forge-20.25.0.jar"
+filename = "customvillagertrades-forge-20.25.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/220_customvillagertrades-forge-20.25.0.jar"
+hash-format = "sha256"
+hash = "fcf5646ff6f65c7d67eb9be0901724f4f2055d35dad1f015395986050c01b7d0"

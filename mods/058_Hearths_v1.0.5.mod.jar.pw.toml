@@ -1,0 +1,8 @@
+name = "Hearths v1.0.5.mod.jar"
+filename = "Hearths v1.0.5.mod.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/058_Hearths_v1.0.5.mod.jar"
+hash-format = "sha256"
+hash = "97391792de6c404bf93d145cb213cdacb98cd0c0130cdb4012ba6dc63f51f3f5"

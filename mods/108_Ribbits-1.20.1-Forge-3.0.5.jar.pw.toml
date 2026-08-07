@@ -1,0 +1,8 @@
+name = "Ribbits-1.20.1-Forge-3.0.5.jar"
+filename = "Ribbits-1.20.1-Forge-3.0.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/108_Ribbits-1.20.1-Forge-3.0.5.jar"
+hash-format = "sha256"
+hash = "e04aa665df7e96844fe8833f29cc343feefac8ad7b949399d7b4a60475123e2b"

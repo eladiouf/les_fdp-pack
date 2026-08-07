@@ -1,0 +1,8 @@
+name = "emberstextapi-forge-1.20.1-3.0.2-all.jar"
+filename = "emberstextapi-forge-1.20.1-3.0.2-all.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/247_emberstextapi-forge-1.20.1-3.0.2-all.jar"
+hash-format = "sha256"
+hash = "e0c5a486c2e8b65329f14774d183bb04c5f684732c768c5304a4cd887ef2614a"

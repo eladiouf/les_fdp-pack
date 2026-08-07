@@ -1,0 +1,8 @@
+name = "lavachickenmusicdisc-1.20.1-Forge-1.0.0.jar"
+filename = "lavachickenmusicdisc-1.20.1-Forge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/336_lavachickenmusicdisc-1.20.1-Forge-1.0.0.jar"
+hash-format = "sha256"
+hash = "2c30cf6767ae4966eb2e9f240f5228227908425f426c2477d646435a979aa051"

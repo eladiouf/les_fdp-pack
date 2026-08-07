@@ -1,0 +1,8 @@
+name = "EasyAnvils-v8.0.2-1.20.1-Forge.jar"
+filename = "EasyAnvils-v8.0.2-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/035_EasyAnvils-v8.0.2-1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "a08b641e6cc1d4867e0878826ac4fb9e55b45907d0fa3429172ecad8cd678ce9"

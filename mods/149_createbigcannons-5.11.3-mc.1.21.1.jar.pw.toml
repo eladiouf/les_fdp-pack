@@ -1,8 +1,0 @@
-name = "createbigcannons-5.11.3-mc.1.21.1.jar"
-filename = "createbigcannons-5.11.3-mc.1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/149_createbigcannons-5.11.3-mc.1.21.1.jar"
-hash-format = "sha256"
-hash = "16cb451c1673198131148cec8196bb6325b3eb85168172bd629c0b93261381df"

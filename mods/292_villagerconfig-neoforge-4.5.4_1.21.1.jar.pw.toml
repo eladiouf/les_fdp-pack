@@ -1,8 +1,0 @@
-name = "villagerconfig-neoforge-4.5.4+1.21.1.jar"
-filename = "villagerconfig-neoforge-4.5.4+1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/292_villagerconfig-neoforge-4.5.4_1.21.1.jar"
-hash-format = "sha256"
-hash = "3cc5a9ab2ffddd214ec0a0de18ccddc1ae36ab50117306a44fed62314e9ea26b"

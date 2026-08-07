@@ -1,8 +1,0 @@
-name = "variantsandventures-neoforge-1.0.26+mc1.21.1.jar"
-filename = "variantsandventures-neoforge-1.0.26+mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/291_variantsandventures-neoforge-1.0.26_mc1.21.1.jar"
-hash-format = "sha256"
-hash = "7cdbd2a4503142c5900066bbbf4c06a813b06322fbb3088e41d059e22d8dfc19"

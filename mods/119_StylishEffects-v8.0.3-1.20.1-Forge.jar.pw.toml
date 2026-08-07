@@ -1,0 +1,8 @@
+name = "StylishEffects-v8.0.3-1.20.1-Forge.jar"
+filename = "StylishEffects-v8.0.3-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/119_StylishEffects-v8.0.3-1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "5a92b759a35716b914f36c626a8aa8e89674bfa033a53baa1f24bbcd05a531b7"

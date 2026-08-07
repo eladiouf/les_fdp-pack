@@ -1,8 +1,0 @@
-name = "redirected-neoforge-1.0.0-1.21.1.jar"
-filename = "redirected-neoforge-1.0.0-1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/254_redirected-neoforge-1.0.0-1.21.1.jar"
-hash-format = "sha256"
-hash = "bdaf4c3399b7436d3be7d79729d87ed707a964420dc58720e13fb2f4960c8b9e"

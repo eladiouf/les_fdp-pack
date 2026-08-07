@@ -1,0 +1,8 @@
+name = "gnumus_settlement_[Forge]1.20.1_v1.0.jar"
+filename = "gnumus_settlement_[Forge]1.20.1_v1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/291_gnumus_settlement_[Forge]1.20.1_v1.0.jar"
+hash-format = "sha256"
+hash = "e805b1fcf9c173ae7d488763d67cef7a49d658884da95f9268e87caed7a905cf"

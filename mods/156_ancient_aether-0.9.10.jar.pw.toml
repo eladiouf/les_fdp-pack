@@ -1,0 +1,8 @@
+name = "ancient_aether-0.9.10.jar"
+filename = "ancient_aether-0.9.10.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/156_ancient_aether-0.9.10.jar"
+hash-format = "sha256"
+hash = "61b65ee5be670c222e47c4d26d1c575e5581ee6e9f6f87cd26039c7d31102653"

@@ -1,0 +1,8 @@
+name = "clientsort-forge-2.2.2+1.20.1.jar"
+filename = "clientsort-forge-2.2.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/189_clientsort-forge-2.2.2+1.20.1.jar"
+hash-format = "sha256"
+hash = "5b355cd62843d471082d605f7347cfdf6ab987435a628923ba5925e43dc25a65"

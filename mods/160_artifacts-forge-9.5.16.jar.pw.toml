@@ -1,0 +1,8 @@
+name = "artifacts-forge-9.5.16.jar"
+filename = "artifacts-forge-9.5.16.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/160_artifacts-forge-9.5.16.jar"
+hash-format = "sha256"
+hash = "b39b1aa5882b81f4a53710f841232e25c2eecb577bbde2f399c34bba5fee6e04"

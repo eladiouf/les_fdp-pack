@@ -1,8 +1,0 @@
-name = "trashslot-neoforge-1.21.1-21.1.11.jar"
-filename = "trashslot-neoforge-1.21.1-21.1.11.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/287_trashslot-neoforge-1.21.1-21.1.11.jar"
-hash-format = "sha256"
-hash = "3289b5c84a79e63d83d4ce05d8e3e15b622b2e286e0770b86f00807974a77695"

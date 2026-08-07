@@ -1,0 +1,8 @@
+name = "suppsquared-1.20-1.1.29.jar"
+filename = "suppsquared-1.20-1.1.29.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/448_suppsquared-1.20-1.1.29.jar"
+hash-format = "sha256"
+hash = "a972bcd468df4151d26bdfe5602e6e16fbd22efa23ba222e136d8b90c533d6bd"

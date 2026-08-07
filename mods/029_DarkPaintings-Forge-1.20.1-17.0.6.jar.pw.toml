@@ -1,0 +1,8 @@
+name = "DarkPaintings-Forge-1.20.1-17.0.6.jar"
+filename = "DarkPaintings-Forge-1.20.1-17.0.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/029_DarkPaintings-Forge-1.20.1-17.0.6.jar"
+hash-format = "sha256"
+hash = "adfd2bd4d602c1756fce8ceda53e4eb493b404803c17e00b283b76b0d35b2a65"

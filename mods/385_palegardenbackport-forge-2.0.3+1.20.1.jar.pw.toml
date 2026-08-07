@@ -1,0 +1,8 @@
+name = "palegardenbackport-forge-2.0.3+1.20.1.jar"
+filename = "palegardenbackport-forge-2.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/385_palegardenbackport-forge-2.0.3+1.20.1.jar"
+hash-format = "sha256"
+hash = "efe117a55a10810de16cbfc5bc1b236bd5d0466d96ca4ce519b58e8e96329fe6"

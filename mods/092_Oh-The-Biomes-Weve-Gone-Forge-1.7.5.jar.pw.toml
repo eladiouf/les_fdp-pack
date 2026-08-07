@@ -1,0 +1,8 @@
+name = "Oh-The-Biomes-Weve-Gone-Forge-1.7.5.jar"
+filename = "Oh-The-Biomes-Weve-Gone-Forge-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/092_Oh-The-Biomes-Weve-Gone-Forge-1.7.5.jar"
+hash-format = "sha256"
+hash = "3aed757e3509013d7c32b0b707c8b3e070248722f02e953293cf8e8325b8363f"

@@ -1,0 +1,8 @@
+name = "bettertridentreturn-1.20.1-1.0.2-forge.jar"
+filename = "bettertridentreturn-1.20.1-1.0.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/171_bettertridentreturn-1.20.1-1.0.2-forge.jar"
+hash-format = "sha256"
+hash = "96ae03e8a1a61d30e5c4fd780cf7058f002adf0805772643d5e58acafd851a31"

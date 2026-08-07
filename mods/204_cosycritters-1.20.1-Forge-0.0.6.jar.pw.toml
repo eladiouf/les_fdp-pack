@@ -1,0 +1,8 @@
+name = "cosycritters-1.20.1-Forge-0.0.6.jar"
+filename = "cosycritters-1.20.1-Forge-0.0.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/204_cosycritters-1.20.1-Forge-0.0.6.jar"
+hash-format = "sha256"
+hash = "eb2837d928a731c02939fc69d27a0f0f927512ddc6f83bbc3df2324de9f5c138"

@@ -1,0 +1,8 @@
+name = "gbf-1.0.1.jar"
+filename = "gbf-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/286_gbf-1.0.1.jar"
+hash-format = "sha256"
+hash = "f3bec0b361bb99d5fcb3c1210c54e7f83b1013c547845cc5f1474276bb6c030a"

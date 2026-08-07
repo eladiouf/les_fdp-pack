@@ -1,8 +1,0 @@
-name = "sodium-neoforge-0.6.13+mc1.21.1.jar"
-filename = "sodium-neoforge-0.6.13+mc1.21.1.jar"
-side = "client"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/270_sodium-neoforge-0.6.13_mc1.21.1.jar"
-hash-format = "sha256"
-hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"

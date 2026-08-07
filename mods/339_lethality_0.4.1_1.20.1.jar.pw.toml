@@ -1,0 +1,8 @@
+name = "lethality_0.4.1_1.20.1.jar"
+filename = "lethality_0.4.1_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/339_lethality_0.4.1_1.20.1.jar"
+hash-format = "sha256"
+hash = "38d8cfe4ddaf798efa1a1ec5ae4cd0281a2afbec42a59f6009070cfa76bc8584"

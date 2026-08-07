@@ -1,8 +1,0 @@
-name = "monolib-neoforge-1.21.1-4.0.2.jar"
-filename = "monolib-neoforge-1.21.1-4.0.2.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/238_monolib-neoforge-1.21.1-4.0.2.jar"
-hash-format = "sha256"
-hash = "13b3806a99673cdfbc86d675a0c82b380e2f372e8cbacc88d5148885498a46e3"

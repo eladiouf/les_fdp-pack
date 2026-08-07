@@ -1,0 +1,8 @@
+name = "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar"
+filename = "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/124_The_Graveyard_3.1_(FORGE)_for_1.20.1.jar"
+hash-format = "sha256"
+hash = "f26aace5460890b9a46094586530708517b58fc1e8752055882fd4f03912f07d"

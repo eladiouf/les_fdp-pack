@@ -1,0 +1,8 @@
+name = "Kiwi-1.20.1-Forge-11.10.3.jar"
+filename = "Kiwi-1.20.1-Forge-11.10.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/069_Kiwi-1.20.1-Forge-11.10.3.jar"
+hash-format = "sha256"
+hash = "803753d53e22124713e66c01559eb0a502e0ccba996ce7e89a9169e48a2660e2"

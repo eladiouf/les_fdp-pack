@@ -1,0 +1,8 @@
+name = "abyssal_decor-_1.20.1_0.9.1.jar"
+filename = "abyssal_decor-_1.20.1_0.9.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/149_abyssal_decor-_1.20.1_0.9.1.jar"
+hash-format = "sha256"
+hash = "ea49b28386329d26b48103aa6c8a4ae242fd034df9968cccd11574310ce3b246"

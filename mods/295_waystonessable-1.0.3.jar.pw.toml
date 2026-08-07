@@ -1,8 +1,0 @@
-name = "waystonessable-1.0.3.jar"
-filename = "waystonessable-1.0.3.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/295_waystonessable-1.0.3.jar"
-hash-format = "sha256"
-hash = "cb452cfaaa8e9674384e93b3509559c6b65ab3ca7a1682604f5b79648ab1542e"

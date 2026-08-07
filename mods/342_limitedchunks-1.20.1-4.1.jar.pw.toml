@@ -1,0 +1,8 @@
+name = "limitedchunks-1.20.1-4.1.jar"
+filename = "limitedchunks-1.20.1-4.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/342_limitedchunks-1.20.1-4.1.jar"
+hash-format = "sha256"
+hash = "5ff4d22551dcd74680f5da79c9055faae44dfc0c5348c273447200e464eeac59"

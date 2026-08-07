@@ -1,0 +1,8 @@
+name = "BetterThanMending-1.7.2.jar"
+filename = "BetterThanMending-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/013_BetterThanMending-1.7.2.jar"
+hash-format = "sha256"
+hash = "f6d338addc59565f09fba5de9bf4bda316984aa94e41e13bb971e23d4a274658"

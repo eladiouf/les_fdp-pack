@@ -1,0 +1,8 @@
+name = "forgivingvoid-forge-1.20.1-10.0.3.jar"
+filename = "forgivingvoid-forge-1.20.1-10.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/277_forgivingvoid-forge-1.20.1-10.0.3.jar"
+hash-format = "sha256"
+hash = "9f6cee0d586a5f756b60fc9584adc391328e9ad452c054d39ad8746d0c8a677f"

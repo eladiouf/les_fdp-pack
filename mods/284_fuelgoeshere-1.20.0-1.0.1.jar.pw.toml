@@ -1,0 +1,8 @@
+name = "fuelgoeshere-1.20.0-1.0.1.jar"
+filename = "fuelgoeshere-1.20.0-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/284_fuelgoeshere-1.20.0-1.0.1.jar"
+hash-format = "sha256"
+hash = "bcc066a8b661bffd01312afae1558b931bdf45a7042a6978edb53132b3987b09"

@@ -1,0 +1,8 @@
+name = "notenoughanimations-forge-1.11.3-mc1.20.1.jar"
+filename = "notenoughanimations-forge-1.11.3-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/376_notenoughanimations-forge-1.11.3-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "ba479aa1f3d34bbe425e965cc38e9ba959ad03fd9a7b6a69ddcc5c3bdfc9fb14"

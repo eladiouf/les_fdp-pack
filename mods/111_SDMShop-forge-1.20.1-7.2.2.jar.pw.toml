@@ -1,0 +1,8 @@
+name = "SDMShop-forge-1.20.1-7.2.2.jar"
+filename = "SDMShop-forge-1.20.1-7.2.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/111_SDMShop-forge-1.20.1-7.2.2.jar"
+hash-format = "sha256"
+hash = "31c455298333bcb6c3ed3d85cddfb380c7e12cbd700dbc3f75dfa4be97ea98cd"

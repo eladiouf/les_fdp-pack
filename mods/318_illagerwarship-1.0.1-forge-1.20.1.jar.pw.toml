@@ -1,0 +1,8 @@
+name = "illagerwarship-1.0.1-forge-1.20.1.jar"
+filename = "illagerwarship-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/318_illagerwarship-1.0.1-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "e32d1c5fb5c7de6bfa7e188a3f23092f317109d66f00d50ed9ed29bb9d25cd7b"

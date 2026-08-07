@@ -1,0 +1,8 @@
+name = "ice_and_fire_spellbooks-2.3.2-1.20.1.jar"
+filename = "ice_and_fire_spellbooks-2.3.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/312_ice_and_fire_spellbooks-2.3.2-1.20.1.jar"
+hash-format = "sha256"
+hash = "c15f6234274407976c791f2d1b3776d0aacc5138341aaf81367bd9e47a7f13a5"

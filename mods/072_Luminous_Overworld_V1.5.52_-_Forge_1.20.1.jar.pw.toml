@@ -1,0 +1,8 @@
+name = "Luminous Overworld V1.5.52 - Forge 1.20.1.jar"
+filename = "Luminous Overworld V1.5.52 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/072_Luminous_Overworld_V1.5.52_-_Forge_1.20.1.jar"
+hash-format = "sha256"
+hash = "48771a23959b9f51d03d729584ec45a30155196a0b36fe93d384ec10d4ffacc3"

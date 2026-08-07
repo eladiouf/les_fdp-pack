@@ -1,0 +1,8 @@
+name = "supplementaries-1.20-3.1.42-forge.jar"
+filename = "supplementaries-1.20-3.1.42-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/447_supplementaries-1.20-3.1.42-forge.jar"
+hash-format = "sha256"
+hash = "f58c2a725336f263e94870347df116e0198d7a8c36a6f7bdf065c566b0248811"

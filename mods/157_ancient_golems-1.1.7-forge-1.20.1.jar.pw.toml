@@ -1,0 +1,8 @@
+name = "ancient_golems-1.1.7-forge-1.20.1.jar"
+filename = "ancient_golems-1.1.7-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/157_ancient_golems-1.1.7-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "2010cfb598e3809a65988831728c6b11d93fe83e7c985f1a9d6f1217c7c0da19"

@@ -1,0 +1,8 @@
+name = "Droppable-20.0.8.jar"
+filename = "Droppable-20.0.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/032_Droppable-20.0.8.jar"
+hash-format = "sha256"
+hash = "9ff39ae39543d175414a43ef201fb76dd01c472bed9288d030da5a77548ae31b"

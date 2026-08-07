@@ -1,8 +1,0 @@
-name = "Structory_26.1_v1.3.16.jar"
-filename = "Structory_26.1_v1.3.16.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/067_Structory_26.1_v1.3.16.jar"
-hash-format = "sha256"
-hash = "2591265c9899bbb7305b4d6992e2a5fa1aff1bc691c724d3da34761b806251b7"

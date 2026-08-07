@@ -1,0 +1,8 @@
+name = "PhilipsRuins1.20.1-5.7.jar"
+filename = "PhilipsRuins1.20.1-5.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/099_PhilipsRuins1.20.1-5.7.jar"
+hash-format = "sha256"
+hash = "5cdafaca61c34ad7e38aea13033fcb5e8cadc557226be4fbcc0743db2222fbe3"

@@ -1,0 +1,8 @@
+name = "SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar"
+filename = "SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/114_SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar"
+hash-format = "sha256"
+hash = "4177db2fdb2d23b717dd3dbf64504c848935327bb4f5fbdff64ed907cb6c4571"

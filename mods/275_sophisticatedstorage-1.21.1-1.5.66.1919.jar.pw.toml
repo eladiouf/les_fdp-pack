@@ -1,8 +1,0 @@
-name = "sophisticatedstorage-1.21.1-1.5.66.1919.jar"
-filename = "sophisticatedstorage-1.21.1-1.5.66.1919.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/275_sophisticatedstorage-1.21.1-1.5.66.1919.jar"
-hash-format = "sha256"
-hash = "35978f3adec0c46bd5f870336cb167674422deb3faabf1ad00b6b8307ed44676"

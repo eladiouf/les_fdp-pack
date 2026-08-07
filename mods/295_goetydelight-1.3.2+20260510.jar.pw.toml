@@ -1,0 +1,8 @@
+name = "goetydelight-1.3.2+20260510.jar"
+filename = "goetydelight-1.3.2+20260510.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/295_goetydelight-1.3.2+20260510.jar"
+hash-format = "sha256"
+hash = "8c0de8f356331ea4767f3b6d2024b6cb012ce17508f4691c2cb5e61590160a1a"

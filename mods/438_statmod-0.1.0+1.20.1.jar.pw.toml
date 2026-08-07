@@ -1,0 +1,8 @@
+name = "statmod-0.1.0+1.20.1.jar"
+filename = "statmod-0.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/438_statmod-0.1.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "2b8c08c4d7ce9984b16a57d5cb98bcd03396cf8b3573a8e0536c1df6e6835667"

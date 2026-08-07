@@ -1,8 +1,0 @@
-name = "cupboard-1.21.1-3.8.jar"
-filename = "cupboard-1.21.1-3.8.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/160_cupboard-1.21.1-3.8.jar"
-hash-format = "sha256"
-hash = "722847521c1f9bae079bd3ec1a70b187c3186e71247ddf1182c0ea498cdec067"

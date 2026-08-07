@@ -1,0 +1,8 @@
+name = "NekosEnchantedBooks-1.19.3-2.0.3.jar"
+filename = "NekosEnchantedBooks-1.19.3-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/087_NekosEnchantedBooks-1.19.3-2.0.3.jar"
+hash-format = "sha256"
+hash = "5bf73a759ba9f909321485b60f11e5340c6d522e27d48cabc606696111d37e0d"

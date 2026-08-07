@@ -1,0 +1,8 @@
+name = "Trials-Final.jar"
+filename = "Trials-Final.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/129_Trials-Final.jar"
+hash-format = "sha256"
+hash = "b4c541d37d34f5171ae98fb1438c3b5e882f73681fbd6649b35220555702e05a"

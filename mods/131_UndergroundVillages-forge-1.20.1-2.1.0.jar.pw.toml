@@ -1,0 +1,8 @@
+name = "UndergroundVillages-forge-1.20.1-2.1.0.jar"
+filename = "UndergroundVillages-forge-1.20.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/131_UndergroundVillages-forge-1.20.1-2.1.0.jar"
+hash-format = "sha256"
+hash = "7b02799a380aa2d28f19c68197ac3bc9686e6bb25813f5984bdcfa9265de39f4"

@@ -1,0 +1,8 @@
+name = "structurify-forge-1.0.21+mc1.20.1.jar"
+filename = "structurify-forge-1.0.21+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/443_structurify-forge-1.0.21+mc1.20.1.jar"
+hash-format = "sha256"
+hash = "73fc1c9bf04532dd291093f3531c7881783efa8f0a9a9dc5c317b9f8d75a3ee6"

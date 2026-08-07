@@ -1,0 +1,8 @@
+name = "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.5.0.jar"
+filename = "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/093_Oh-The-Trees-Youll-Grow-forge-1.20.1-1.5.0.jar"
+hash-format = "sha256"
+hash = "78e458d192400c9761c818acd7433e89d2e7e66f57ee227efc2f4656946201a5"

@@ -1,0 +1,8 @@
+name = "feur_extension_fossil-1.20.1-forge.jar"
+filename = "feur_extension_fossil-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/274_feur_extension_fossil-1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "2a4b925b6aa728ec435a46461642a335db72de03302d0c07774fe21060f9f9c1"

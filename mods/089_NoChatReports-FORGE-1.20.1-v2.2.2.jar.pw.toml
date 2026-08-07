@@ -1,0 +1,8 @@
+name = "NoChatReports-FORGE-1.20.1-v2.2.2.jar"
+filename = "NoChatReports-FORGE-1.20.1-v2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/089_NoChatReports-FORGE-1.20.1-v2.2.2.jar"
+hash-format = "sha256"
+hash = "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"

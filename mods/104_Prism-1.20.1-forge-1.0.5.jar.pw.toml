@@ -1,0 +1,8 @@
+name = "Prism-1.20.1-forge-1.0.5.jar"
+filename = "Prism-1.20.1-forge-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/104_Prism-1.20.1-forge-1.0.5.jar"
+hash-format = "sha256"
+hash = "b1a576f920faeb2175f693e3ee7ba9e5ff0bcf0e404da29f1824ea3c66efd240"

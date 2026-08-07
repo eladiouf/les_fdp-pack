@@ -1,0 +1,8 @@
+name = "enigmaticaddons-1.2.5.jar"
+filename = "enigmaticaddons-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/251_enigmaticaddons-1.2.5.jar"
+hash-format = "sha256"
+hash = "448dde0f52c9f27e3288509d3bc4348ee123b7a1cc386d7b290fbf8910e39d22"

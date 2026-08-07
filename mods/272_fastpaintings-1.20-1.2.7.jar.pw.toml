@@ -1,0 +1,8 @@
+name = "fastpaintings-1.20-1.2.7.jar"
+filename = "fastpaintings-1.20-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/272_fastpaintings-1.20-1.2.7.jar"
+hash-format = "sha256"
+hash = "cb7e71c87abb53d9bf66836ff3a9036dde261594e25ecbe3e140fe3153ce4358"

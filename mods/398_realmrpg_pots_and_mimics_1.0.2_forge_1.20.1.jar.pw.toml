@@ -1,0 +1,8 @@
+name = "realmrpg_pots_and_mimics_1.0.2_forge_1.20.1.jar"
+filename = "realmrpg_pots_and_mimics_1.0.2_forge_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/398_realmrpg_pots_and_mimics_1.0.2_forge_1.20.1.jar"
+hash-format = "sha256"
+hash = "ec932057b0f296049b123f5a0949b161146e960992c835d66906f67138e6ce18"

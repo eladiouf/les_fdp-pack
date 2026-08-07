@@ -1,0 +1,8 @@
+name = "createcobblestone-1.4.11+forge-1.20.1-142.jar"
+filename = "createcobblestone-1.4.11+forge-1.20.1-142.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/211_createcobblestone-1.4.11+forge-1.20.1-142.jar"
+hash-format = "sha256"
+hash = "00b395dde31da50a10c2fc44d034dbf4608183790f42b28b70756ee3dd5871ce"

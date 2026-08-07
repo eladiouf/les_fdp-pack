@@ -1,0 +1,8 @@
+name = "Tumbleweed-forge-1.20.1-0.5.5.jar"
+filename = "Tumbleweed-forge-1.20.1-0.5.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/130_Tumbleweed-forge-1.20.1-0.5.5.jar"
+hash-format = "sha256"
+hash = "db37a99504d7d506d01504cde1502b5eb93ab835d9455cdb665603ba3fbd5da4"

@@ -1,0 +1,8 @@
+name = "amendments-1.20-2.0.6.jar"
+filename = "amendments-1.20-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/155_amendments-1.20-2.0.6.jar"
+hash-format = "sha256"
+hash = "9db54840f4d5182255d900040f6fd2695ea62bd5697918bd7a1ccdc97a671404"

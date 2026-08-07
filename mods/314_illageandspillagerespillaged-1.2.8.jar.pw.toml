@@ -1,0 +1,8 @@
+name = "illageandspillagerespillaged-1.2.8.jar"
+filename = "illageandspillagerespillaged-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/314_illageandspillagerespillaged-1.2.8.jar"
+hash-format = "sha256"
+hash = "295bdc3948c4ac0cd2621d835324003441ad1ad61fe6e430e3a16419335cc133"

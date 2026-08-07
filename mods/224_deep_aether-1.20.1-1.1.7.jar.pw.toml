@@ -1,0 +1,8 @@
+name = "deep_aether-1.20.1-1.1.7.jar"
+filename = "deep_aether-1.20.1-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/224_deep_aether-1.20.1-1.1.7.jar"
+hash-format = "sha256"
+hash = "ab6bce474afa41edb53299d6ccbba6af22b881b7a7eab4988124ba6b6eff7feb"

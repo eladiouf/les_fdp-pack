@@ -1,8 +1,0 @@
-name = "jamlib-neoforge-1.3.6+1.21.1.jar"
-filename = "jamlib-neoforge-1.3.6+1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/208_jamlib-neoforge-1.3.6_1.21.1.jar"
-hash-format = "sha256"
-hash = "911afdfe717a2375a651253e282ac9e769f8bead381d33c2167955c25eefe514"

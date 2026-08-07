@@ -1,0 +1,8 @@
+name = "visuality-forge-2.2.0.jar"
+filename = "visuality-forge-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/468_visuality-forge-2.2.0.jar"
+hash-format = "sha256"
+hash = "0eb8b00fb8e3bef96930a13a6abeec6fde624baf95886d54e82986f03998d88e"

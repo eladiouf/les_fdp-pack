@@ -1,0 +1,8 @@
+name = "ebintegration-0.1.3.jar"
+filename = "ebintegration-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/243_ebintegration-0.1.3.jar"
+hash-format = "sha256"
+hash = "cd1fa73cc849c700519d6a2a0ba10bfcb92a477d9135bc5ae7e04d88796d5133"

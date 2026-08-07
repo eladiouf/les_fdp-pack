@@ -1,0 +1,8 @@
+name = "chefsdelight-1.0.4-forge-1.20.1.jar"
+filename = "chefsdelight-1.0.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/183_chefsdelight-1.0.4-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "c8af30759853f16de8025eaa175526a62fb3c2df705c31f50c7f779942361e00"

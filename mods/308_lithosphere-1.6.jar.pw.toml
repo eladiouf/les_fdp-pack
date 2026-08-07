@@ -1,8 +1,0 @@
-name = "lithosphere 1.6 17.06.2025 (1.20.5 - 1.21.5).jar"
-filename = "lithosphere 1.6 17.06.2025 (1.20.5 - 1.21.5).jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/308_lithosphere-1.6.jar"
-hash-format = "sha256"
-hash = "f66d1c35bd9f36f861c5bd607050d6906413f8ef003941520e96434537b70394"

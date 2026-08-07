@@ -1,8 +1,0 @@
-name = "still-life-0.1.1.jar"
-filename = "still-life-0.1.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/309_still-life-0.1.1.jar"
-hash-format = "sha256"
-hash = "0838e42c151cd4118b2baadc9fe933cc5015c611d00a54846601eb1e8b66deab"

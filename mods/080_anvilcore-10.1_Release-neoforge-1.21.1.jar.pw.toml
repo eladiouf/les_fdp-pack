@@ -1,8 +1,0 @@
-name = "anvilcore-10.1 Release-neoforge-1.21.1.jar"
-filename = "anvilcore-10.1 Release-neoforge-1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/080_anvilcore-10.1_Release-neoforge-1.21.1.jar"
-hash-format = "sha256"
-hash = "8b4056202f36380b9223e3b40b09669a736b9d3f690c2299ee29ebb64074b676"

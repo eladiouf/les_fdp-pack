@@ -1,0 +1,8 @@
+name = "elytraslot-forge-6.4.4+1.20.1.jar"
+filename = "elytraslot-forge-6.4.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/245_elytraslot-forge-6.4.4+1.20.1.jar"
+hash-format = "sha256"
+hash = "f96c26e7ac9e2dade0aa04f71b9f8708a2b7af92b9cc691103ae32c62764e6ab"

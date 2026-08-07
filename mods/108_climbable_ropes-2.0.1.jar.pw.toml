@@ -1,8 +1,0 @@
-name = "climbable_ropes-2.0.1.jar"
-filename = "climbable_ropes-2.0.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/108_climbable_ropes-2.0.1.jar"
-hash-format = "sha256"
-hash = "787c6d0c3abd06fdc08d8322c0f21fb26c15cff985d3d5b69c9eaa6e272f94cf"

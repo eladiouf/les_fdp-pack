@@ -1,0 +1,8 @@
+name = "additionaladditions-6.0.1.jar"
+filename = "additionaladditions-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/150_additionaladditions-6.0.1.jar"
+hash-format = "sha256"
+hash = "31722b7f94064bcdfb31680c9a22f04b2a6925852a2867449c6080d8285ad3bb"

@@ -1,8 +1,0 @@
-name = "dynamiclights-1.21.1.2NF.jar"
-filename = "dynamiclights-1.21.1.2NF.jar"
-side = "client"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/167_dynamiclights-1.21.1.2NF.jar"
-hash-format = "sha256"
-hash = "065ac4275f0d8f823892310bc3774655512f55f36ba97c4544b323b4da67bf0e"

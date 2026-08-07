@@ -1,0 +1,8 @@
+name = "LuminousTag V1.1 - Forge 1.20.1.jar"
+filename = "LuminousTag V1.1 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/073_LuminousTag_V1.1_-_Forge_1.20.1.jar"
+hash-format = "sha256"
+hash = "c4cd94935623ecbab8f9a0f6d58c4ab7aa0611088b1f7d2da5173dba38e2812c"

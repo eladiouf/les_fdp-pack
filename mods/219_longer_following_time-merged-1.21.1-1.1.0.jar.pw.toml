@@ -1,8 +1,0 @@
-name = "longer_following_time-merged-1.21.1-1.1.0.jar"
-filename = "longer_following_time-merged-1.21.1-1.1.0.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/219_longer_following_time-merged-1.21.1-1.1.0.jar"
-hash-format = "sha256"
-hash = "1682ccd78b08c878e40a6eff9fc80ecf2e597303586bcee550be0c107c40a2d7"

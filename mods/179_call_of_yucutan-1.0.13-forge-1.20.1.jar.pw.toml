@@ -1,0 +1,8 @@
+name = "call_of_yucutan-1.0.13-forge-1.20.1.jar"
+filename = "call_of_yucutan-1.0.13-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/179_call_of_yucutan-1.0.13-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "063be00ddec8cd799b59db056157ac9b0ebbd177de2401c3f5d22ae4efc47bcc"

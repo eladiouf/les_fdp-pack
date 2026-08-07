@@ -1,0 +1,8 @@
+name = "notrample-1.20.1-1.0.1.jar"
+filename = "notrample-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/377_notrample-1.20.1-1.0.1.jar"
+hash-format = "sha256"
+hash = "022acf970473176ba0134c49f4e6f36302b1faedcdde55bcfd7a9f40deb1447c"

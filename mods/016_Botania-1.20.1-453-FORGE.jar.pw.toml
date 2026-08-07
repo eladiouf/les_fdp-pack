@@ -1,0 +1,8 @@
+name = "Botania-1.20.1-453-FORGE.jar"
+filename = "Botania-1.20.1-453-FORGE.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/016_Botania-1.20.1-453-FORGE.jar"
+hash-format = "sha256"
+hash = "222755726437ed9d908c58462b604c10d137c3756a4a228ab459dbbaf8bd4c19"

@@ -1,0 +1,8 @@
+name = "mokels bossfight kinora 1.0.jar"
+filename = "mokels bossfight kinora 1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/368_mokels_bossfight_kinora_1.0.jar"
+hash-format = "sha256"
+hash = "3fa8a0ec2c4c0c20d3e086dad6673a9fcdaab3eee0b6b5040751c20a21095612"

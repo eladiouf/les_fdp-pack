@@ -1,8 +1,0 @@
-name = "create_connected-1.1.14-mc1.21.1.jar"
-filename = "create_connected-1.1.14-mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/129_create_connected-1.1.14-mc1.21.1.jar"
-hash-format = "sha256"
-hash = "fb33e9cbb234d5b6cc7e3eb9ebd55e8dbb4506a11c37a9d72899eef788d25b8f"

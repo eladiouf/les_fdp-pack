@@ -1,0 +1,8 @@
+name = "ConnectorExtras-1.11.2+1.20.1.jar"
+filename = "ConnectorExtras-1.11.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/023_ConnectorExtras-1.11.2+1.20.1.jar"
+hash-format = "sha256"
+hash = "10d149fc9348b57120f50e3f82ac6f7e544ae18f0b5b7342c0cab3af38f5acd8"

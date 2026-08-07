@@ -1,0 +1,8 @@
+name = "sweety_archaeology-1.0.9c-forge-1.20.1.jar"
+filename = "sweety_archaeology-1.0.9c-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/449_sweety_archaeology-1.0.9c-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "a1f36c2ed4a34b2a6cf3f255a1daa2f17abf832224bb4cbf32bb312327925b56"

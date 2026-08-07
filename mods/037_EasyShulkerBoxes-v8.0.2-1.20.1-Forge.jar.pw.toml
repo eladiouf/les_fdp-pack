@@ -1,0 +1,8 @@
+name = "EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar"
+filename = "EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/037_EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "721a68a7a59183cbb45a0b1b549ac8b2855e46b0ff95e58e7d203dd713551831"

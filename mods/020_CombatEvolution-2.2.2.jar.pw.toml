@@ -1,0 +1,8 @@
+name = "CombatEvolution-2.2.2.jar"
+filename = "CombatEvolution-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/020_CombatEvolution-2.2.2.jar"
+hash-format = "sha256"
+hash = "eba3140f2b0ce977d19b9d44ffef00f8953145a5d610ab6afc7dfc2ed2a2b99c"

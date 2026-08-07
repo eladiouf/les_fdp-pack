@@ -1,0 +1,8 @@
+name = "epicfight-skilltree-forge-20.2.8-1.20.1.jar"
+filename = "epicfight-skilltree-forge-20.2.8-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/258_epicfight-skilltree-forge-20.2.8-1.20.1.jar"
+hash-format = "sha256"
+hash = "1c920aa06aa8a56b343f21a30bc27a0747fd4c3fa3a0dee98f1543c050ebc4e4"

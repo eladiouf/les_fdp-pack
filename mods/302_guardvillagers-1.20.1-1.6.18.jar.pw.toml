@@ -1,0 +1,8 @@
+name = "guardvillagers-1.20.1-1.6.18.jar"
+filename = "guardvillagers-1.20.1-1.6.18.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/302_guardvillagers-1.20.1-1.6.18.jar"
+hash-format = "sha256"
+hash = "6860b6e9d911fd681cf487aa7f7b78373a684bba8cbb24d77baa8a906506b44f"

@@ -1,0 +1,8 @@
+name = "infinitygolem-1.0.0-forge-1.20.1.jar"
+filename = "infinitygolem-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/322_infinitygolem-1.0.0-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "0477a6cf99d54eca96e076da6f8edc19ccab9f63a2b7bcb1f232adc7bc65e227"

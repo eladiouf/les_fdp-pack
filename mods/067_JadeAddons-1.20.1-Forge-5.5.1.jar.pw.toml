@@ -1,0 +1,8 @@
+name = "JadeAddons-1.20.1-Forge-5.5.1.jar"
+filename = "JadeAddons-1.20.1-Forge-5.5.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/067_JadeAddons-1.20.1-Forge-5.5.1.jar"
+hash-format = "sha256"
+hash = "faf39cd0326e5127004be0b0c96ba7d52fa40cf9c7f85854bd47e3ebfc402f4c"

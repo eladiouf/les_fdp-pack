@@ -1,0 +1,8 @@
+name = "fzzy_config-0.7.6+1.20.1+forge.jar"
+filename = "fzzy_config-0.7.6+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/285_fzzy_config-0.7.6+1.20.1+forge.jar"
+hash-format = "sha256"
+hash = "d39cd5d6b23b86468937e306776dc70faba900072c7e359ce9348d8a3c26982e"

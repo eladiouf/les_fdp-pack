@@ -1,0 +1,8 @@
+name = "Mutants Buff 1.5.10 - 1.20.1.jar"
+filename = "Mutants Buff 1.5.10 - 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/082_Mutants_Buff_1.5.10_-_1.20.1.jar"
+hash-format = "sha256"
+hash = "51e41b4ae2e025aa9965ca30d5ccc03c7ef3142a822d8b38d4aee138026ecde4"

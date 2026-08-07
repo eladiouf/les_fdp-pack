@@ -1,0 +1,8 @@
+name = "voidtotem-forge-1.20-3.0.1.jar"
+filename = "voidtotem-forge-1.20-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/470_voidtotem-forge-1.20-3.0.1.jar"
+hash-format = "sha256"
+hash = "6578e2f4322c7bf0ede69f118d6f601481e1e319ef790b097be8e724b9391947"

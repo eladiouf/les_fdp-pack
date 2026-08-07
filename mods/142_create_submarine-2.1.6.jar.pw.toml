@@ -1,8 +1,0 @@
-name = "create_submarine-2.1.6.jar"
-filename = "create_submarine-2.1.6.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/142_create_submarine-2.1.6.jar"
-hash-format = "sha256"
-hash = "6a269758c9bd0035d469819aa5a9586c67e29ddbfba40803c5230a83bf965b92"

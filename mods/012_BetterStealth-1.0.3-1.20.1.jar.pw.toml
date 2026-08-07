@@ -1,0 +1,8 @@
+name = "BetterStealth-1.0.3-1.20.1.jar"
+filename = "BetterStealth-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/012_BetterStealth-1.0.3-1.20.1.jar"
+hash-format = "sha256"
+hash = "f97e19a47223139d3ef22faf3a2aa403acc0c984549f5f44ffd3894fda2c1400"

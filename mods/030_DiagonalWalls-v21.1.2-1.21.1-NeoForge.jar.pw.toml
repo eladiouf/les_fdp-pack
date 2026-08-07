@@ -1,8 +1,0 @@
-name = "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar"
-filename = "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/030_DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar"
-hash-format = "sha256"
-hash = "9ea9e986a09f72c5a40b0ec571c64b802e16f0b4d15b0be452c1d71ceddd1726"

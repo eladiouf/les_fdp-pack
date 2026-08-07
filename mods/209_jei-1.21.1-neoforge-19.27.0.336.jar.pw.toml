@@ -1,8 +1,0 @@
-name = "jei-1.21.1-neoforge-19.27.0.336.jar"
-filename = "jei-1.21.1-neoforge-19.27.0.336.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/209_jei-1.21.1-neoforge-19.27.0.336.jar"
-hash-format = "sha256"
-hash = "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721"

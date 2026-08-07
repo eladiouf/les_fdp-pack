@@ -1,0 +1,8 @@
+name = "TaxFreeLevels-1.4.23-forge-1.20.1.jar"
+filename = "TaxFreeLevels-1.4.23-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/122_TaxFreeLevels-1.4.23-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "0a70864359d7c467e033fed5db7e5eb9bdb96b97cebb7c707c1c01d6f6ee8a74"

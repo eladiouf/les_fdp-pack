@@ -1,8 +1,0 @@
-name = "journeymap-neoforge-1.21.1-6.0.0.jar"
-filename = "journeymap-neoforge-1.21.1-6.0.0.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/211_journeymap-neoforge-1.21.1-6.0.0.jar"
-hash-format = "sha256"
-hash = "9884fcc62d2590a56b63b90a7ba8a8aef40f0a8faf865d841b64d1d0314423d1"

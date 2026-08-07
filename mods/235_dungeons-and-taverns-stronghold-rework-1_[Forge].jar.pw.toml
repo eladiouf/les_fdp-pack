@@ -1,0 +1,8 @@
+name = "dungeons-and-taverns-stronghold-rework-1 [Forge].jar"
+filename = "dungeons-and-taverns-stronghold-rework-1 [Forge].jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/235_dungeons-and-taverns-stronghold-rework-1_[Forge].jar"
+hash-format = "sha256"
+hash = "6ceed00d078b1b6b465c2f7f638a01621fb01752bd0f6094b7ff56f5b9ffc864"

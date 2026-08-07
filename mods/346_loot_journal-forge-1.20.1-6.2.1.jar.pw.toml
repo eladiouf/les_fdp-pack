@@ -1,0 +1,8 @@
+name = "loot_journal-forge-1.20.1-6.2.1.jar"
+filename = "loot_journal-forge-1.20.1-6.2.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/346_loot_journal-forge-1.20.1-6.2.1.jar"
+hash-format = "sha256"
+hash = "46c17475ca54ffa6d16b8d185ceeac9547b01f0c8735689e8fea86f573b20e9a"

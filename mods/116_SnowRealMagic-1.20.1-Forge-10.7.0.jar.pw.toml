@@ -1,0 +1,8 @@
+name = "SnowRealMagic-1.20.1-Forge-10.7.0.jar"
+filename = "SnowRealMagic-1.20.1-Forge-10.7.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/116_SnowRealMagic-1.20.1-Forge-10.7.0.jar"
+hash-format = "sha256"
+hash = "969b0e396dc1d5f2fd3783b3638fc49230fe143ea5329584b27e558a77a20dac"

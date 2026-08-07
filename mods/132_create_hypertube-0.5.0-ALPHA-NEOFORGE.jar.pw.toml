@@ -1,8 +1,0 @@
-name = "create_hypertube-0.5.0-ALPHA-NEOFORGE.jar"
-filename = "create_hypertube-0.5.0-ALPHA-NEOFORGE.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/132_create_hypertube-0.5.0-ALPHA-NEOFORGE.jar"
-hash-format = "sha256"
-hash = "fdcf86646a75465dfe711123e2d98c32d582f8a60d7819295315bbc066f8099e"

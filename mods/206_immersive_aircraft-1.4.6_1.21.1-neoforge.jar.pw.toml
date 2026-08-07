@@ -1,8 +1,0 @@
-name = "immersive_aircraft-1.4.6+1.21.1-neoforge.jar"
-filename = "immersive_aircraft-1.4.6+1.21.1-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/206_immersive_aircraft-1.4.6_1.21.1-neoforge.jar"
-hash-format = "sha256"
-hash = "953222fefb9439b74760583d46dbf620ed85cc614f5ab629aec05ab6ce40ebe7"

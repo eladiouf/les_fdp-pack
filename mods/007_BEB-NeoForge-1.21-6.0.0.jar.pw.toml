@@ -1,8 +1,0 @@
-name = "BEB-NeoForge-1.21-6.0.0.jar"
-filename = "BEB-NeoForge-1.21-6.0.0.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/007_BEB-NeoForge-1.21-6.0.0.jar"
-hash-format = "sha256"
-hash = "fb31fe9e9684481443d888fadbd54f39e7cb19309a171d53bdf9473cff9c2ba6"

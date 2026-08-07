@@ -1,8 +1,0 @@
-name = "Aquaculture-1.21.1-2.7.21.jar"
-filename = "Aquaculture-1.21.1-2.7.21.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/004_Aquaculture-1.21.1-2.7.21.jar"
-hash-format = "sha256"
-hash = "45f00f9059838b2fecc988861111d8b3d4613a5f1b3688a8dbfa8655751b85bb"

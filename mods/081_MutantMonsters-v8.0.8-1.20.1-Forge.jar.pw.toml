@@ -1,0 +1,8 @@
+name = "MutantMonsters-v8.0.8-1.20.1-Forge.jar"
+filename = "MutantMonsters-v8.0.8-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/081_MutantMonsters-v8.0.8-1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "9a1835dd388a04c37acb1384e7c39650804103b3dd9d4b3910fd49022d18a4bf"

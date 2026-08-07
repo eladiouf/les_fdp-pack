@@ -1,8 +1,0 @@
-name = "create_sophback_compat-1.0.jar"
-filename = "create_sophback_compat-1.0.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/140_create_sophback_compat-1.0.jar"
-hash-format = "sha256"
-hash = "5eee67aff06d3355cbd06b6190551e109884a43465da3671f9d2735a07eba3c3"

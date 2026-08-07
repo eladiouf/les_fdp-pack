@@ -1,0 +1,8 @@
+name = "LeaveMyBarsAlone-v8.0.0-1.20.1-Forge.jar"
+filename = "LeaveMyBarsAlone-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/070_LeaveMyBarsAlone-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "c37f4a3da0231cab70952fa2da3b6d10bf6bbd88048907a160de4b6bbbec5a53"

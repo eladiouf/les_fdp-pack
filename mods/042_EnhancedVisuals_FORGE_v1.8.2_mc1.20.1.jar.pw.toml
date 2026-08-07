@@ -1,0 +1,8 @@
+name = "EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar"
+filename = "EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/042_EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar"
+hash-format = "sha256"
+hash = "2590c1a56b1a6c8236d460d637da5fdddf4e2c6a0bc70b9a78c762f3e75e428b"

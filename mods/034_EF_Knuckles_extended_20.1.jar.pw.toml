@@ -1,0 +1,8 @@
+name = "EF_Knuckles_extended_20.1.jar"
+filename = "EF_Knuckles_extended_20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/034_EF_Knuckles_extended_20.1.jar"
+hash-format = "sha256"
+hash = "c5278f2d470b96ea267978c44e094a4b4262454a05b524e165d4a25123c3d9e0"

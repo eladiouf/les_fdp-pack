@@ -1,8 +1,0 @@
-name = "Auroras-1.21-1.6.2.jar"
-filename = "Auroras-1.21-1.6.2.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/005_Auroras-1.21-1.6.2.jar"
-hash-format = "sha256"
-hash = "fda5c3970fb76f80710a591710d51ba3a8e1289427a969b6dd397b09a3570176"

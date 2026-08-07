@@ -1,8 +1,0 @@
-name = "factory_blocks-neoforge-1.4.0+mc1.21.1.jar"
-filename = "factory_blocks-neoforge-1.4.0+mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/185_factory_blocks-neoforge-1.4.0_mc1.21.1.jar"
-hash-format = "sha256"
-hash = "404080fcf4747c6d84b73d1c204d047408aae476f57752bc5f38e9c16c7f51cd"

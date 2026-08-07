@@ -1,0 +1,8 @@
+name = "bettermountsteering-forge-1.20.1-1.0.6.jar"
+filename = "bettermountsteering-forge-1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/170_bettermountsteering-forge-1.20.1-1.0.6.jar"
+hash-format = "sha256"
+hash = "dce5c380856f4ed4027b8cf385ffdc4e9eb321fab68f808ca227f6bb9325d580"

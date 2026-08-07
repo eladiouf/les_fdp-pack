@@ -1,0 +1,8 @@
+name = "ldlib-forge-1.20.1-1.0.52.jar"
+filename = "ldlib-forge-1.20.1-1.0.52.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/337_ldlib-forge-1.20.1-1.0.52.jar"
+hash-format = "sha256"
+hash = "c586bcf244fee438da24314b214f59fd6497bb662efebd8d2e6c9a6ae1dd85a7"

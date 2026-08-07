@@ -1,0 +1,8 @@
+name = "fragmentum-forge-1.20.1-1.5.2.jar"
+filename = "fragmentum-forge-1.20.1-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/278_fragmentum-forge-1.20.1-1.5.2.jar"
+hash-format = "sha256"
+hash = "c5d12e49e31af941f0dc96b2c9e6e6368ceaa0d4dac24f83af4431f49bca262d"

@@ -1,0 +1,8 @@
+name = "voicechat-forge-1.20.1-2.6.21.jar"
+filename = "voicechat-forge-1.20.1-2.6.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/469_voicechat-forge-1.20.1-2.6.21.jar"
+hash-format = "sha256"
+hash = "26bb5a271fbff83c39c9f956d108157db46acb868a67175176d1233693771434"

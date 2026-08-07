@@ -1,0 +1,8 @@
+name = "Ding-1.20.1-Forge-1.5.0.jar"
+filename = "Ding-1.20.1-Forge-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/030_Ding-1.20.1-Forge-1.5.0.jar"
+hash-format = "sha256"
+hash = "59c86922faaa753137d6f1bd5922f89d5ed30acd2f4d2c44331eb2f07cdfca1f"

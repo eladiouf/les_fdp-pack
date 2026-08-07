@@ -1,0 +1,8 @@
+name = "AttributeFix-Forge-1.20.1-21.0.5.jar"
+filename = "AttributeFix-Forge-1.20.1-21.0.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/007_AttributeFix-Forge-1.20.1-21.0.5.jar"
+hash-format = "sha256"
+hash = "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11"

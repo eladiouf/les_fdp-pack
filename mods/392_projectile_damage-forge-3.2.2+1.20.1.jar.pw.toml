@@ -1,0 +1,8 @@
+name = "projectile_damage-forge-3.2.2+1.20.1.jar"
+filename = "projectile_damage-forge-3.2.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/392_projectile_damage-forge-3.2.2+1.20.1.jar"
+hash-format = "sha256"
+hash = "05d75229c1dfe096b74b1f756dbe92382979d409ad3a73b255f331ecae635978"

@@ -1,8 +1,0 @@
-name = "xptome-1.21.1-2.4.jar"
-filename = "xptome-1.21.1-2.4.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/298_xptome-1.21.1-2.4.jar"
-hash-format = "sha256"
-hash = "9cc3fb2352f7024faacd081f4efe437bdb3e3af09ea4f2c0b2f8ca845de1125e"

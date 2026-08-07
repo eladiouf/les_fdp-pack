@@ -1,0 +1,8 @@
+name = "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+filename = "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/362_melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+hash-format = "sha256"
+hash = "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"

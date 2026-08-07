@@ -1,0 +1,8 @@
+name = "dungeons_enhanced-1.20.1-5.4.3.jar"
+filename = "dungeons_enhanced-1.20.1-5.4.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/237_dungeons_enhanced-1.20.1-5.4.3.jar"
+hash-format = "sha256"
+hash = "caf6a694cf338d77b71208dcdd4e234e5b87594123a55bfb4f4e0122ae61b9c3"

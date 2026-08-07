@@ -1,0 +1,8 @@
+name = "goety-2.5.54.5.jar"
+filename = "goety-2.5.54.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/293_goety-2.5.54.5.jar"
+hash-format = "sha256"
+hash = "bb881a7a11fb9adf9924934e88a4ce69b2a9b492e85bfcb9af7c7d6ea0eef02f"

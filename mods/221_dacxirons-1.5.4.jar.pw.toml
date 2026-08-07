@@ -1,0 +1,8 @@
+name = "dacxirons-1.5.4.jar"
+filename = "dacxirons-1.5.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/221_dacxirons-1.5.4.jar"
+hash-format = "sha256"
+hash = "741ef4d14eaaee08c62d57bc504f5a7fe9f697d78be886556e8afe4367b21f33"

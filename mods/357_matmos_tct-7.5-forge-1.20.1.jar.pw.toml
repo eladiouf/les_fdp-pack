@@ -1,0 +1,8 @@
+name = "matmos_tct-7.5-forge-1.20.1.jar"
+filename = "matmos_tct-7.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/357_matmos_tct-7.5-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "6d227e4b32ff63672dcd8cc0b6048fc1b8f93596c64d0e662c0ec94d85ee7301"

@@ -1,0 +1,8 @@
+name = "torch-hit-forge-1.20.1-7.0.0.jar"
+filename = "torch-hit-forge-1.20.1-7.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/457_torch-hit-forge-1.20.1-7.0.0.jar"
+hash-format = "sha256"
+hash = "3c050205dea5c1a4d2b2a611e2f1ba390af252315dfb7d8a7e75379e71e4e5ee"

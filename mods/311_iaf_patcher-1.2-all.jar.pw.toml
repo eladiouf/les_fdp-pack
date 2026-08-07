@@ -1,0 +1,8 @@
+name = "iaf_patcher-1.2-all.jar"
+filename = "iaf_patcher-1.2-all.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/311_iaf_patcher-1.2-all.jar"
+hash-format = "sha256"
+hash = "a396b74bfa5e29bbd842781c4f49275785f5eef08fdb207398208ddd02370eb4"

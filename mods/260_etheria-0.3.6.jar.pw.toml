@@ -1,0 +1,8 @@
+name = "etheria-0.3.6.jar"
+filename = "etheria-0.3.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/260_etheria-0.3.6.jar"
+hash-format = "sha256"
+hash = "2c8cd9a1408852da53146e761e6852b1f5953266bdc2b13a68e9815eb05fc974"

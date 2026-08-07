@@ -1,0 +1,8 @@
+name = "moonlight-1.20-2.16.8-forge.jar"
+filename = "moonlight-1.20-2.16.8-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/370_moonlight-1.20-2.16.8-forge.jar"
+hash-format = "sha256"
+hash = "a5c1133ff1c229988ab63a6ae3a021864c719fca3b9054af2198a0466608aad3"

@@ -1,0 +1,8 @@
+name = "embeddium-0.3.31+mc1.20.1.jar"
+filename = "embeddium-0.3.31+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/246_embeddium-0.3.31+mc1.20.1.jar"
+hash-format = "sha256"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"

@@ -1,0 +1,8 @@
+name = "xmxw-2.11.1+1.20.1-forge.jar"
+filename = "xmxw-2.11.1+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/478_xmxw-2.11.1+1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "6b314893d99e4355638c523bd4606b314099258242dd68a70312066c1b99849e"

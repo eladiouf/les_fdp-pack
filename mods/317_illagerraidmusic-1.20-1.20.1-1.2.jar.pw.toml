@@ -1,0 +1,8 @@
+name = "illagerraidmusic-1.20-1.20.1-1.2.jar"
+filename = "illagerraidmusic-1.20-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/317_illagerraidmusic-1.20-1.20.1-1.2.jar"
+hash-format = "sha256"
+hash = "66ea3fb29bcd7b687e6051f8b3fa4f7733579ffa9680f81cf08abf3b4344c0f8"

@@ -1,0 +1,8 @@
+name = "hazennstuff-watered-down-edition-1.1.2.jar"
+filename = "hazennstuff-watered-down-edition-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/303_hazennstuff-watered-down-edition-1.1.2.jar"
+hash-format = "sha256"
+hash = "cce49aa74707634ac78e955442eb6a75e2122338db7f7b91da0286f375014f90"

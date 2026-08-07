@@ -1,0 +1,8 @@
+name = "WeaponsOfMiracles-2.0.17-mc1.20.1-forge.jar"
+filename = "WeaponsOfMiracles-2.0.17-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/136_WeaponsOfMiracles-2.0.17-mc1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "7aa29d4451330e5352088dcef67a238fcc9e350451ec5df10ba89fc2d839d478"

@@ -1,0 +1,8 @@
+name = "IrisSearch-1.5.1-forge.jar"
+filename = "IrisSearch-1.5.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/064_IrisSearch-1.5.1-forge.jar"
+hash-format = "sha256"
+hash = "f3d8701f1d391b18435366dca47368e81f01d333fa595cca8f90f7cb8449b590"

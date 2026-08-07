@@ -1,8 +1,0 @@
-name = "sophisticatedcore-1.21.1-1.4.65.2102.jar"
-filename = "sophisticatedcore-1.21.1-1.4.65.2102.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/274_sophisticatedcore-1.21.1-1.4.65.2102.jar"
-hash-format = "sha256"
-hash = "363d31a586b61e8d44b08128f18edf2648c67cac3a440ff205f5ad8c31875c68"

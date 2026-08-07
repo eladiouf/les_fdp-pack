@@ -1,0 +1,8 @@
+name = "colorwheel-forge-1.2.9+mc1.20.1.jar"
+filename = "colorwheel-forge-1.2.9+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/193_colorwheel-forge-1.2.9+mc1.20.1.jar"
+hash-format = "sha256"
+hash = "f1632bb755738e86413fad5da5148ef29a4cbafadb569f151f17590f9d6a89e1"

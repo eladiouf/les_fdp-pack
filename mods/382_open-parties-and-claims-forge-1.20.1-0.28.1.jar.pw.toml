@@ -1,0 +1,8 @@
+name = "open-parties-and-claims-forge-1.20.1-0.28.1.jar"
+filename = "open-parties-and-claims-forge-1.20.1-0.28.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/382_open-parties-and-claims-forge-1.20.1-0.28.1.jar"
+hash-format = "sha256"
+hash = "8876ca0707e425e9bc73ccf714be27e5a7112882f62b5f718832a3704deaae0e"

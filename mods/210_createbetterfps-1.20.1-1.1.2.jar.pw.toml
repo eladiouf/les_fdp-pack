@@ -1,0 +1,8 @@
+name = "createbetterfps-1.20.1-1.1.2.jar"
+filename = "createbetterfps-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/210_createbetterfps-1.20.1-1.1.2.jar"
+hash-format = "sha256"
+hash = "6ae7511fc3c911168713d6281cd823eca8931a512f5f50917506e317bac640b3"

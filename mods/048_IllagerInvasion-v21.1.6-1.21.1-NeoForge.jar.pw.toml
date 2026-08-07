@@ -1,8 +1,0 @@
-name = "IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"
-filename = "IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/048_IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"
-hash-format = "sha256"
-hash = "5adfdd0df0c5dbe81e4458da50442b58863f9db9f22abc182f81e487eef0e6db"

@@ -1,0 +1,8 @@
+name = "restrictedportals-forge-1.20.1-1.5.0.jar"
+filename = "restrictedportals-forge-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/408_restrictedportals-forge-1.20.1-1.5.0.jar"
+hash-format = "sha256"
+hash = "bebaf88deec45955e3915db3e3b97433673ca9b92b7787ce8babe910ac1a5c23"

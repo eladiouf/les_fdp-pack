@@ -1,0 +1,8 @@
+name = "EpicFight-Resurrection-forge1.20.1-0.20.12.2.jar"
+filename = "EpicFight-Resurrection-forge1.20.1-0.20.12.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/046_EpicFight-Resurrection-forge1.20.1-0.20.12.2.jar"
+hash-format = "sha256"
+hash = "707cf39eb71456f8a4d4b8192fb1c7b340748b06d861b747a8cc686fa6301d88"

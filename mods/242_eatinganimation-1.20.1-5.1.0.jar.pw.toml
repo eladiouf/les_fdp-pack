@@ -1,0 +1,8 @@
+name = "eatinganimation-1.20.1-5.1.0.jar"
+filename = "eatinganimation-1.20.1-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/242_eatinganimation-1.20.1-5.1.0.jar"
+hash-format = "sha256"
+hash = "506ffc2e2bcc5709c8121382c5d0428ca642ceaeebe2a9169c9b0475a83c657c"

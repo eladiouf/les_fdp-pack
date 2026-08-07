@@ -1,0 +1,8 @@
+name = "crittersandcompanions-forge-1.20.1-2.6.2.jar"
+filename = "crittersandcompanions-forge-1.20.1-2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/213_crittersandcompanions-forge-1.20.1-2.6.2.jar"
+hash-format = "sha256"
+hash = "5a9d92017aad06a1e73fee3daa16632eada40b57257074de3fff79480e75d339"

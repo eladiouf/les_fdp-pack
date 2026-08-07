@@ -1,0 +1,8 @@
+name = "clientcrafting-1.20.1-2.1.jar"
+filename = "clientcrafting-1.20.1-2.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/188_clientcrafting-1.20.1-2.1.jar"
+hash-format = "sha256"
+hash = "2d2c37816343d390f02235086095a10a9a56949fd4346da39c1fca301d32a51f"

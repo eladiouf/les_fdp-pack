@@ -1,0 +1,8 @@
+name = "statuseffectbars-1.20.1-Forge-1.0.3.jar"
+filename = "statuseffectbars-1.20.1-Forge-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/439_statuseffectbars-1.20.1-Forge-1.0.3.jar"
+hash-format = "sha256"
+hash = "5f055a6a366abf1e2aad212cda4bed2c670f521c8cce6184e59581a348e90931"

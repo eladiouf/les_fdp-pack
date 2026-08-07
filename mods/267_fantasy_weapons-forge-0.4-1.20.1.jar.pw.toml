@@ -1,0 +1,8 @@
+name = "fantasy_weapons-forge-0.4-1.20.1.jar"
+filename = "fantasy_weapons-forge-0.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/267_fantasy_weapons-forge-0.4-1.20.1.jar"
+hash-format = "sha256"
+hash = "c3622380f9d8aeaada06a5b1bc900dd42a3ecc8acaf6efeb04e0d7141d681f25"

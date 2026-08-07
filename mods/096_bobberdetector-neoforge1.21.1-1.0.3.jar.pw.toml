@@ -1,8 +1,0 @@
-name = "bobberdetector-neoforge1.21.1-1.0.3.jar"
-filename = "bobberdetector-neoforge1.21.1-1.0.3.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/096_bobberdetector-neoforge1.21.1-1.0.3.jar"
-hash-format = "sha256"
-hash = "6faa520ecc73227b7cb55888989100062b47430bc74cc6e5903c711ff5979094"

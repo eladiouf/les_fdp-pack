@@ -1,8 +1,0 @@
-name = "connectivity-1.21.1-7.6.jar"
-filename = "connectivity-1.21.1-7.6.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/114_connectivity-1.21.1-7.6.jar"
-hash-format = "sha256"
-hash = "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a"

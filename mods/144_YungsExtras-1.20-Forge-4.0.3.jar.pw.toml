@@ -1,0 +1,8 @@
+name = "YungsExtras-1.20-Forge-4.0.3.jar"
+filename = "YungsExtras-1.20-Forge-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/144_YungsExtras-1.20-Forge-4.0.3.jar"
+hash-format = "sha256"
+hash = "3def0d66debef6185df82f6b777ec382a59dc66da47c8f081e69cc059da1d98d"

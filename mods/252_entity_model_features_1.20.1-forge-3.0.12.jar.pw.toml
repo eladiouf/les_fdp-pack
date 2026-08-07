@@ -1,0 +1,8 @@
+name = "entity_model_features_1.20.1-forge-3.0.12.jar"
+filename = "entity_model_features_1.20.1-forge-3.0.12.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/252_entity_model_features_1.20.1-forge-3.0.12.jar"
+hash-format = "sha256"
+hash = "38e003a60865d48b71fc7dd744411905ca23842799c2452b81c5b79e9c5738c6"

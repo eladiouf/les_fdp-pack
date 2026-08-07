@@ -1,0 +1,8 @@
+name = "colorwheel_patcher-forge-1.0.5+mc1.20.1.jar"
+filename = "colorwheel_patcher-forge-1.0.5+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/194_colorwheel_patcher-forge-1.0.5+mc1.20.1.jar"
+hash-format = "sha256"
+hash = "77cf4d1602af673cd427dfbb21d359859ea10abcf2bff46da2602535a24e5c63"

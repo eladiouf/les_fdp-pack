@@ -1,0 +1,8 @@
+name = "rarcompat-1.20.1-0.3.1.jar"
+filename = "rarcompat-1.20.1-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/397_rarcompat-1.20.1-0.3.1.jar"
+hash-format = "sha256"
+hash = "d55f35d3d78aa609f137c24fbb313ab237a4dd6f7c800dee6488ff7da10e1844"

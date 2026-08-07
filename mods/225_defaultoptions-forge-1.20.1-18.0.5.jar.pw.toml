@@ -1,0 +1,8 @@
+name = "defaultoptions-forge-1.20.1-18.0.5.jar"
+filename = "defaultoptions-forge-1.20.1-18.0.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/225_defaultoptions-forge-1.20.1-18.0.5.jar"
+hash-format = "sha256"
+hash = "28a34106f7dc91015bc202924593e7a375c9d4dd2681aec58f5abd06fa5eaeee"

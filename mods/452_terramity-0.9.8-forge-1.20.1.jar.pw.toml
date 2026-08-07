@@ -1,0 +1,8 @@
+name = "terramity-0.9.8-forge-1.20.1.jar"
+filename = "terramity-0.9.8-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/452_terramity-0.9.8-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "793a356ddb7759c5781fe0a2e25e66ad1dabecef457759383f18529f2e2e1f2c"

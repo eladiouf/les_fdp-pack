@@ -1,0 +1,8 @@
+name = "stardew_fishing-3.7-1.20.1.jar"
+filename = "stardew_fishing-3.7-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/437_stardew_fishing-3.7-1.20.1.jar"
+hash-format = "sha256"
+hash = "42b26d951d6abbf88ad65c53ed07951cde92ec53e13630719cab15806ce91f0c"

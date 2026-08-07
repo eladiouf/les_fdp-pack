@@ -1,0 +1,8 @@
+name = "travelersbackpack-forge-1.20.1-9.1.56.jar"
+filename = "travelersbackpack-forge-1.20.1-9.1.56.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/460_travelersbackpack-forge-1.20.1-9.1.56.jar"
+hash-format = "sha256"
+hash = "04e7b39179e95f1a69107a07a63d7bce52243149edffa3b03cfe6eb23503579e"

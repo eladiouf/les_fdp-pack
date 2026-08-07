@@ -1,8 +1,0 @@
-name = "alltheleaks-1.1.10+1.21.1-neoforge.jar"
-filename = "alltheleaks-1.1.10+1.21.1-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/076_alltheleaks-1.1.10_1.21.1-neoforge.jar"
-hash-format = "sha256"
-hash = "43bf78569341397ac67901029bf199aa98cd11db70373bccfc87975b4a9c53bb"

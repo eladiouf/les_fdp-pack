@@ -1,0 +1,8 @@
+name = "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar"
+filename = "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/eladiouf/les_fdp-pack/main/files/411_rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar"
+hash-format = "sha256"
+hash = "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"

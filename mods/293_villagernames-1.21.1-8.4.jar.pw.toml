@@ -1,8 +1,0 @@
-name = "villagernames-1.21.1-8.4.jar"
-filename = "villagernames-1.21.1-8.4.jar"
-side = "both"
-
-[download]
-url = "https://eladiouf.github.io/les_fdp-pack/files/293_villagernames-1.21.1-8.4.jar"
-hash-format = "sha256"
-hash = "a13b48c429047181c3c924e9e4b3c4352c7574cdf5e92c432f9ec8408614710b"
